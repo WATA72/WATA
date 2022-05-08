@@ -63,11 +63,11 @@ http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1068" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1069" tvg-name="SEO TV" tvg-logo="https://paste.pics/15137deabfc7335e605433f568592d74.png", SEO TV | BO
+#EXTINF:-1 tvg-id="1069" tvg-name="SEO TV" tvg-logo="https://paste.pics/15137deabfc7335e605433f568592d74", SEO TV | BO
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-#EXTINF:-1 tvg-id="1070" tvg-name="TELESOL" tvg-logo="https://paste.pics/67f7ff8b3c802c1a01bdb5ab7c8a1667.png", TELESOL | VE
+#EXTINF:-1 tvg-id="1070" tvg-name="TELESOL" tvg-logo="https://paste.pics/67f7ff8b3c802c1a01bdb5ab7c8a1667", TELESOL | VE
 http://vcp1.myplaytv.com/telesol/telesol/chunklist_w221269581.m3u8
-#EXTINF:-1 tvg-id="1071" tvg-name="SEO TV NOVELAS" tvg-logo="https://paste.pics/1c8e6beb4f25c6f3e144deb78ee520e9.png", SEO TV NOVELAS| BO
+#EXTINF:-1 tvg-id="1071" tvg-name="SEO TV NOVELAS" tvg-logo="https://paste.pics/1c8e6beb4f25c6f3e144deb78ee520e9", SEO TV NOVELAS| BO
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTINF:-1 tvg-id="1072" tvg-name="LA TELE TUYA" tvg-logo="https://paste.pics/ea43eaa84be0e62b5f6f9cade4be4d49.png", TLT| VE
+#EXTINF:-1 tvg-id="1072" tvg-name="LA TELE TUYA" tvg-logo="https://paste.pics/ea43eaa84be0e62b5f6f9cade4be4d49", TLT| VE
 https://vcp.myplaytv.com/tlt-4/tlt-4/chunklist_w560506411.m3u8
