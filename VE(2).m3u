@@ -69,5 +69,7 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 http://vcp1.myplaytv.com/telesol/telesol/chunklist_w221269581.m3u8
 #EXTINF:-1 tvg-id="1071" tvg-name="SEO TV NOVELAS" tvg-logo="https://paste.pics/1c8e6beb4f25c6f3e144deb78ee520e9", SEO TV NOVELAS| BO
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="1073" tvg-name="SEO TV KIDS" tvg-logo="https://paste.pics/f35dede3c0a49500ec7eb461ae3a5bb3", SEO TV KIDS| BO
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-id="1072" tvg-name="LA TELE TUYA" tvg-logo="https://paste.pics/ea43eaa84be0e62b5f6f9cade4be4d49", TLT| VE
 https://vcp.myplaytv.com/tlt-4/tlt-4/chunklist_w560506411.m3u8
