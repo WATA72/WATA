@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV * | VE
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913180859.m3u8
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1973565617.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/panavision/ngrp:panavision_all/chunklist_w2077763999_b2367672.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://lh3.googleusercontent.com/-EpqNmGFV2ow/X3Y6qotdhkI/AAAAAAAA6H0/3URfX759g_ow54BVCcOG1NI30SOvlAZ0QCK8BGAsYHg/s0/2020-10-01.png", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://lh3.googleusercontent.com/-rHFloKz5ypo/XzgNbcFRQgI/AAAAAAAA4Q8/4nKRXr3B33A4BFXqIpCAx6uBfDaDGlnHwCK8BGAsYHg/s0/2020-08-15.png", Catatumbo TV | VE
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/promar/promar/chunklist_w937862147.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="Reforma TV" tvg-logo="https://lh3.googleusercontent.com/-9oxffsN2uIM/Xxzv8htqa6I/AAAAAAAA3a0/1hQeXtqRNrc1bIvJuaDBn6PGaMoPNGaWACK8BGAsYHg/s0/2020-07-25.png", Reforma TV | VE
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png", Telearagua | VE
@@ -22,9 +22,9 @@ https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="150" tvg-name="TLT" tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png", TLT | VE
 https://vtv-cdn.myplaytv.com/lateletuya/lateletuya/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152" tvg-name="TVO" tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png", TVO | VE
-http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
+https://vcp3.myplaytv.com/tvo/tvo/chunklist_w801659730.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Vepaco TV" tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV | VE
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
+https://vcp3.myplaytv.com/tvepaco/tvepaco/chunklist_w63059137.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="500" tvg-name="Telesur English" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur English | VE
@@ -34,7 +34,7 @@ https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay | VE
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="519" tvg-name="Canal i" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png", Canal i | VE
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/canali/canali/chunklist_w1680609686.m3u8
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://lh3.googleusercontent.com/-A5WgWXaqOSw/YEthPZBXIVI/AAAAAAABAkc/K4ZAK7c9hAoCN5MlTXctd8jG2gPMeABcACK8BGAsYHg/s512/2021-03-12.png", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up | CL
@@ -54,7 +54,7 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://lh3.googleusercontent.com/-deFb75UFktE/YKwi66hjaNI/AAAAAAABCho/NMTn7zkpR34vtSQ_nLQDfznppbQGXpTmACK8BGAsYHg/s512/2021-05-24.png", Natanael TV | PA
 https://stmv1.voxhdnet.com/ventvpremium/ventvpremium/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png", Italianissimo | VE
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/chunklist_w1525081229_b817156.m3u8
 #EXTINF:-1 tvg-id="927" tvg-name="Anzoategui TV" tvg-logo="https://i2.paste.pics/424b6a55497d0fcf8744e5a55ba2ff93.png", Anzoategui TV | VE
@@ -77,11 +77,15 @@ https://vcp4.myplaytv.com/tlt-2/tlt-28052022/chunklist_w1916858847.m3u8
 https://srv.panelcast.net/telered/telered/chunklist_w134148811.m3u8
 #EXTINF:-1 tvg-id="1075" tvg-name="ANTENA 3" tvg-logo="https://ibb.co/DL1bnzC", ANTENA 3 | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-id="1076" tvg-name="CUBAVISION" tvg-logo="https://i.ibb.co/j5yPLfz/SEO-KIDS-TV.jpg", CUBAVISION | CU
+#EXTINF:-1 tvg-id="1076" tvg-name="CUBAVISION" tvg-logo="", CUBAVISION | CU
 
-#EXTINF:-1 tvg-id="1077" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="https://i.ibb.co/j5yPLfz/SEO-KIDS-TV.jpg", CUBAVISION INTERNACIONAL| CU
+#EXTINF:-1 tvg-id="1077" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="", CUBAVISION INTERNACIONAL| CU
 
 #EXTINF:-1 tvg-id="1078" tvg-name="IVC" tvg-logo="data:image/png;base64,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", IVC | US
 https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-name="TOONCAST" tvg-logo="https://ibb.co/DDvDrfy", TOONCAST | US
 https://edge-live15-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 tvg-id="1080" tvg-name="BTA" tvg-logo="https://ibb.co/PGjGK0X", BTA | VE
+https://vcp3.myplaytv.com/bta/bta/chunklist_w908082126.m3u8
+#EXTINF:-1 tvg-id="1081" tvg-name="TRV" tvg-logo="https://ibb.co/M7p4TML", TRV | VE
+https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
