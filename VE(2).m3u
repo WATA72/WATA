@@ -58,7 +58,7 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/chunklist_w1525081229_b817156.m3u8
 #EXTINF:-1 tvg-id="927" tvg-name="Anzoategui TV" tvg-logo="https://i2.paste.pics/424b6a55497d0fcf8744e5a55ba2ff93.png", Anzoategui TV | VE
-http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w1405429519.m3u8
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1068" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
@@ -89,3 +89,18 @@ https://edge-live15-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-mp
 https://vcp3.myplaytv.com/bta/bta/chunklist_w908082126.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="TRV" tvg-logo="https://ibb.co/M7p4TML", TRV | VE
 https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
+#EXTINF:-1 tvg-id="1082" tvg-name="VALE TV" tvg-logo="https://ibb.co/z8m14jJ", VLTV | VE
+https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
+#EXTINF:-1 tvg-id="1083" tvg-name="VALE TV" tvg-logo="https://ibb.co/4fxC4c5", VTV | VE
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnTac6QcFHXi6oPseIpCP3pB6fS0SSpuCKs_o_Hq1ZJ4)/dm/3/x828i6j/s/live-3.m3u8
+#EXTINF:-1 tvg-id="1084" tvg-name="BARINAS TV" tvg-logo="https://ibb.co/1z5S2hj", BTV | VE
+https://vcp2.myplaytv.com/barinastv/barinastv/chunklist_w1101529946.m3u8
+#EXTINF:-1 tvg-id="1085" tvg-name="MUNDO MAS TV" tvg-logo="https://ibb.co/r3xStvg", M+TV | VE
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1793208872.m3u8
+#EXTINF:-1 tvg-id="1086" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://ibb.co/2gbyySj", M+TV | VE
+https://youtu.be/XDJPzMznAjU.m3u8
+EXTINF:-1 tvg-id="1087" tvg-name="RT EN ESPANOL" tvg-logo="https://ibb.co/xzsds75", RT | RUS
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+EXTINF:-1 tvg-id="1088" tvg-name="ADN 40" tvg-logo="https://ibb.co/j84gG41", ADN40 | VE
+https://www.youtube.com/watch?v=k13334.m3u8
+
