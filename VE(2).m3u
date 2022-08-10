@@ -7,7 +7,7 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913180859.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1973565617.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
 https://vcp.myplaytv.com/panavision/ngrp:panavision_all/chunklist_w1346741913_b2761830.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://preview.tinyurl.com/2psuhmkw", Canal Once Del Zulia | VE
+#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://yt3.ggpht.com/PFcvw4jOSC8WYEQ36ZfXRw99Y8RJSeAkj9jqIe7tIM0MEBgwK22q_0dlxpUKex0p1y7isVkVzTM=s900-c-k-c0x00ffffff-no-rj", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://ibb.co/qMwvYMB", Catatumbo TV | VE
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
