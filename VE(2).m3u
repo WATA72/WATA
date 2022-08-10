@@ -14,7 +14,7 @@ https://vcp3.myplaytv.com/catatumbotv/catatumbotv/chunklist_w882341980.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/chunklist_w937862147.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="Reforma TV" tvg-logo="https://channelstore.roku.com/es-hn/details/fbdc14c234dec7dbccaf080e7b133d15/radio-reforma-tv", Reforma TV | VE
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w983963151.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png", Telearagua | VE
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
