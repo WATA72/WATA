@@ -20,7 +20,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="150" tvg-name="TLT" tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png", TLT | VE
-https://vtv-cdn.myplaytv.com/lateletuya/lateletuya/playlist.m3u8?PlaylistM3UCL
+https://vcp4.myplaytv.com/xtlt/xtlt.stream/chunklist_w1920902688.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="TVO" tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png", TVO | VE
 https://vcp3.myplaytv.com/tvo/tvo/chunklist_w801659730.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Vepaco TV" tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV | VE
