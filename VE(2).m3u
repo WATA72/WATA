@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913180859.m3u8
-#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
+#EXTINF:-1 tvg-id="Oxigeno Network" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1973565617.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
 https://vcp.myplaytv.com/panavision/ngrp:panavision_all/chunklist_w1346741913_b2761830.m3u8
