@@ -92,7 +92,7 @@ https://vcp2.myplaytv.com/barinastv/barinastv/chunklist_w1101529946.m3u8
 #EXTINF:-1 tvg-id="1085" tvg-name="MUNDO MAS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49c5d99bbb4f5e05cc3ebd7384fe6add.webp", M+TV | VE
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1793208872.m3u8
 #EXTINF:-1 tvg-id="1086" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png", France 24 ES | VE
-https://youtu.be/XDJPzMznAjU.m3u8
+https://youtu.be/XDJPzMznAjU
 EXTINF:-1 tvg-id="1087" tvg-name="RT EN ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png", RT | RUS
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 EXTINF:-1 tvg-id="1088" tvg-name="ADN 40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png", ADN40 | VE
