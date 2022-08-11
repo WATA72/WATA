@@ -1,31 +1,31 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
-#EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV * | VE
+#EXTINF:-1 tvg-id="Nubeh TV" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913180859.m3u8
 #EXTINF:-1 tvg-id="Oxigeno Network" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1973565617.m3u8
-#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
+#EXTINF:-1 tvg-id="Panavision" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
 https://vcp.myplaytv.com/panavision/ngrp:panavision_all/chunklist_w1346741913_b2761830.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://yt3.ggpht.com/PFcvw4jOSC8WYEQ36ZfXRw99Y8RJSeAkj9jqIe7tIM0MEBgwK22q_0dlxpUKex0p1y7isVkVzTM=s900-c-k-c0x00ffffff-no-rj", Canal Once Del Zulia | VE
+#EXTINF:-1 tvg-id="Canal Once Zulia" tvg-name="Canal Once Del Zulia" tvg-logo="https://yt3.ggpht.com/PFcvw4jOSC8WYEQ36ZfXRw99Y8RJSeAkj9jqIe7tIM0MEBgwK22q_0dlxpUKex0p1y7isVkVzTM=s900-c-k-c0x00ffffff-no-rj", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg", Catatumbo TV | VE
+#EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg", Catatumbo TV | VE
 https://vcp3.myplaytv.com/catatumbotv/catatumbotv/chunklist_w882341980.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
+#EXTINF:-1 tvg-id="Promar Tv" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/chunklist_w937862147.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="Reforma TV" tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png", Reforma TV | VE
+#EXTINF:-1 tvg-id="Reforma Tv" tvg-name="Reforma TV" tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png", Reforma TV | VE
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w983963151.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png", Telearagua | VE
+#EXTINF:-1 tvg-id="Tele Aragua" tvg-name="Telearagua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png", Telearagua | VE
 http://45.173.198.59:8080/hls/nginx3.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
+#EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="150" tvg-name="TLT" tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png", TLT | VE
+#EXTINF:-1 tvg-id="TLT" tvg-name="TLT" tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png", TLT | VE
 https://vcp4.myplaytv.com/xtlt/xtlt.stream/chunklist_w1920902688.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="TVO" tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png", TVO | VE
+#EXTINF:-1 tvg-id="TVO" tvg-name="TVO" tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png", TVO | VE
 https://vcp3.myplaytv.com/tvo/tvo/chunklist_w801659730.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="Vepaco TV" tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV | VE
+#EXTINF:-1 tvg-id="VEPACO TV" tvg-name="Vepaco TV" tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV | VE
 https://vcp3.myplaytv.com/tvepaco/tvepaco/chunklist_w63059137.m3u8
-#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+#EXTINF:-1 tvg-id="TELESUR" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="500" tvg-name="Telesur English" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur English | VE
+#EXTINF:-1 tvg-id="TELESUR INGLES" tvg-name="Telesur English" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur English | VE
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="18" tvg-name="Show Ven" tvg-logo="https://play-lh.googleusercontent.com/vVd1VPRW9BgIgv1NzShVoVvYSwaxR3Xri99Dv4Ofm5qJd6jBMto0ZL9-mG0rTAdr6w", Show Ven | VE
 https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_ouJmzUd6TYq_fojniH-c7fSrfHt18GZhYyetwATfV6)/dm/3/x89zzt5/s/live-2.m3u8
