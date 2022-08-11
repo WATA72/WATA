@@ -83,10 +83,10 @@ https://edge-live15-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-mp
 https://vcp3.myplaytv.com/bta/bta/chunklist_w908082126.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="TRV" tvg-logo="http://lorini.net/trv/LOGOTRV.png", TRV | VE
 https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
-#EXTINF:-1 tvg-id="1082" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VLTV | VE
+#EXTINF:-1 tvg-id="1082" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
-#EXTINF:-1 tvg-id="1083" tvg-name="VALE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", VTV | VE
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnTac6QcFHXi6oPseIpCP3pB6fS0SSpuCKs_o_Hq1ZJ4)/dm/3/x828i6j/s/live-3.m3u8
+#EXTINF:-1 tvg-id="1083" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", VTV | VE
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjJzltJ9We6kE1-eEpfDwawb2iTiegtkCYA8e6ipBn_n)/dm/3/x828i6j/s/live-3.m3u8
 #EXTINF:-1 tvg-id="1084" tvg-name="BARINAS TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9aKuDoeFXoSH1F5YOCSEFlFXlc0exO2uFYQVBGOg=s88-c-k-c0x00ffffff-no-rj", BTV | VE
 https://vcp2.myplaytv.com/barinastv/barinastv/chunklist_w1101529946.m3u8
 #EXTINF:-1 tvg-id="1085" tvg-name="MUNDO MAS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49c5d99bbb4f5e05cc3ebd7384fe6add.webp", M+TV | VE
