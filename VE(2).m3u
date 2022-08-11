@@ -75,9 +75,9 @@ https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 https://srv.panelcast.net/telered/telered/chunklist_w134148811.m3u8
 #EXTINF:-1 tvg-id="1075" tvg-name="ANTENA 3" tvg-logo="https://www.descifrado.com/wp-content/uploads/2019/10/720x540.jpg", ANTENA 3 | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-id="1078" tvg-name="IVC" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/ivc.jpg", IVC | US
+#EXTINF:-1 tvg-id="1078" tvg-name="IVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbqUJlDbCVpXVXexLqLknSm4uKSjRHOM6KBYKX9U&s", IVC | US
 https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
-#EXTINF:-1 tvg-id="1079" tvg-name="TOONCAST" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png", TOONCAST | US
+#EXTINF:-1 tvg-id="1079" tvg-name="TOONCAST" tvg-logo="https://pm1.narvii.com/6127/d49565165e61da915e80dab8430d1a3f8bf21de0_hq.jpg", TOONCAST | US
 https://edge-live15-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-mp4a_144800_spa=20000.m3u8
 #EXTINF:-1 tvg-id="1080" tvg-name="BTA" tvg-logo="https://ibb.co/PGjGK0X", BTA | VE
 https://vcp3.myplaytv.com/bta/bta/chunklist_w908082126.m3u8
