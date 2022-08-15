@@ -69,6 +69,8 @@ http://vcp1.myplaytv.com/telesol/telesol/chunklist_w221269581.m3u8
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-id="SEO TV KIDS" tvg-name="SEO TV KIDS" tvg-logo="https://i.ibb.co/j5yPLfz/SEO-KIDS-TV.jpg", SEO TV KIDS | BO
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+#EXTINF:-1 tvg-id="SEO TV RADIO" tvg-name="SEO TV RADIO" tvg-logo="https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/273760051_101455499139786_6571558118556472014_n.jpg?stp=cp0_dst-jpg_e15_p64x64_q65&_nc_cat=100&ccb=1-7&_nc_sid=85a577&_nc_ohc=3adO20X7zA4AX9Pc9cA&_nc_ht=scontent-mia3-1.xx&oh=00_AT-BTHR-SfaY-A2-Un6_qbv9aZAlcjN5CCtda_5iMmdtQw&oe=62FE4D2E", SEO TV RADIO | BO
+https://panel.seo.tv.bo:3314/live/seolive.m3u8
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
 https://srv.panelcast.net/telered/telered/chunklist_w134148811.m3u8
 #EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://www.descifrado.com/wp-content/uploads/2019/10/720x540.jpg", ANTENA 3 | ES
