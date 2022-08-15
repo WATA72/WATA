@@ -86,14 +86,34 @@ https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
 #EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", VTV | VE
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjJzltJ9We6kE1-eEpfDwawb2iTiegtkCYA8e6ipBn_n)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrKWMSIQvg_RRlCYNNBZhE5huGVzKYj7GcNwBxmUV51R)/dm/3/x828i6j/s/live-3.m3u8
 #EXTINF:-1 tvg-id="BARINAS TV" tvg-name="BARINAS TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9aKuDoeFXoSH1F5YOCSEFlFXlc0exO2uFYQVBGOg=s88-c-k-c0x00ffffff-no-rj", BTV | VE
 https://vcp2.myplaytv.com/barinastv/barinastv/chunklist_w1101529946.m3u8
 #EXTINF:-1 tvg-id="MUNDO MAS TV" tvg-name="MUNDO MAS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49c5d99bbb4f5e05cc3ebd7384fe6add.webp", M+TV | VE
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1793208872.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png", France 24 ES | VE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660274950/ei/pXT1YpC5O4Kw4QTWiInQDQ/ip/190.75.107.193/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khjpv0LtZuXDOZhzhaHIlzatpi1Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJxonwohXixf5QcNFVCQiz5BjFoSJjWKM0v-JqONkrziAiEA2G79xjntuYgaCvfL7h-As-u3cJgHhtGkPnjVOW4M5D4%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/dash/expire/1660554748/ei/nLn5YueDJ87okAOssoCYCg/ip/190.74.10.222/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/lT-Khh0ikuUb_LQmyJZsn626Ohxd76M/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANyR5WbMZy9S5Bvgj9GNlD860vYCm0TJWqDuMbMBjwQ1AiEA34r5Z2q6HVapgBkLmeUoBH61UWR9XZwQuwEuxfgXIok%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660554748/ei/nLn5YueDJ87okAOssoCYCg/ip/190.74.10.222/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khh0ikuUb_LQmyJZsn626Ohxd76M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIMiYtIcEXknuRh4e3-MJAudzIA0LMBncBqBb8Om4s2wAiEAmCuTKr1G1pfNnqgE_53uFuySB-WVy_omwzLJgMjiv-Q%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RT TV" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/188px-Russia-today-logo.svg.png", RT ES | RUS
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png", ADN 40 | MEX
-https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/1be0a465-df43-41aa-bd0d-61d292ced3dd:TUL/variant/2a5f58e843ae7a44cacd0db77f4565a6/bandwidth/712800.m3u8
+https://manifest.googlevideo.com/api/manifest/dash/expire/1660556307/ei/s7_5Yr6OD4T78wSLzL9Y/ip/190.74.10.222/id/k13334_t-hs.1/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/lT-KhtsmY0e_V1HW-9SBjE-x9xqqSJ0/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIO0u7gMfPHVM8Yh7uCZOc5n5uC_W6rVqUqSkG0fqnY-AiAsm0zO0WUGS_88aT7NnzGmR0gvdVQfsXzNqQoPtk7TcQ%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660556307/ei/s7_5Yr6OD4T78wSLzL9Y/ip/190.74.10.222/id/k13334_t-hs.1/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhtsmY0e_V1HW-9SBjE-x9xqqSJ0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeXMinS-nK8Yo30u_7sxjVoSCH9YQ_IpKfXsxcTdqdOECIGQ9IEgIu9fFNpGQXM3DSrXBP5yYlK1njNk-hpMBGA_1/file/index.m3u8
+#EXTINF:-1 tvg-id="TELECOLOR" tvg-name="Telecolor" tvg-logo="https://i2.paste.pics/a0f5ba424b3a227e3826f146b5063138.png", Telecolor | VE
+https://vcp.myplaytv.com/telecolor/telecolor/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1203" tvg-name="Chivacoa TV" tvg-logo="https://i2.paste.pics/54f39c6830199197a0c147097e91eb54.png", Chivacoa TV | VE
+https://vdo.panelstreaming.live:3974/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="E SPORTS" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV | VE
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="FIESTA MAX" tvg-name="Fiesta Max TV" tvg-logo="https://i2.paste.pics/44d839eef2ee10d75d93b498dc776dfc.png", Fiesta Max TV | VE
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="HUMOR CHANNEL" tvg-name="Humor Max Channel" tvg-logo="https://i2.paste.pics/9d44b7a5c2c55d571134074f6057fee3.png", Humor Max Channel | VE
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CANTINA TV" tvg-name="Cantina TV" tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png", Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="EXC TV" tvg-name="EXC TV" tvg-logo="https://i2.paste.pics/809204eb3ad39d8c9429bbfd4358884d.png", EXC TV | VE
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="MIRANDA TV" tvg-name="Miranda TV" tvg-logo="https://i2.paste.pics/011fb5268f5b04f0940a71041a2db28e.png", Miranda TV | VE
+https://vcp.myplaytv.com/mdatv/mdtav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="PLTV" tvg-name="PLTV" tvg-logo="https://i2.paste.pics/9562d397b4d3062c8f0b90c235a8c4e9.png", PLTV | VE
+https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TV FANB" tvg-name="TV FANB" tvg-logo="https://i2.paste.pics/a8b5e009d5d735ea3c62feb24231cc0f.png", TV FANB | VE
+https://vcp2.myplaytv.com/tvfanb/tvfenab/playlist.m3u8?PlaylistM3UCL
