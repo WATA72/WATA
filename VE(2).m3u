@@ -32,7 +32,7 @@ https://stream-10.ix7.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9Hd1vc2XfmR6n_nfG
 #EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay | VE
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal I" tvg-name="Canal i" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png", Canal i | VE
-https://vcp.myplaytv.com/canali/canali/chunklist_w1680609686.m3u8
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-id="Venevision" tvg-name="Venevision" tvg-logo="https://lh3.googleusercontent.com/-A5WgWXaqOSw/YEthPZBXIVI/AAAAAAABAkc/K4ZAK7c9hAoCN5MlTXctd8jG2gPMeABcACK8BGAsYHg/s512/2021-03-12.png", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Solo Stand UP" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up | CL
