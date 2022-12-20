@@ -73,9 +73,9 @@ https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 #EXTINF:-1 tvg-id="SEO TV DEPORTES" tvg-name="SEO TV DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV DEPORTES | BO
 https://live.seo.tv.bo/live/5SEO.m3u8
-#EXTINF:-1 tvg-id="SEO TV6" tvg-name="SEO TV6" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV6 | BO
+#EXTINF:-1 tvg-id="SEO TV seis" tvg-name="SEO TV seis" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TVseis | BO
 https://live.seo.tv.bo/live/6SEO.m3u8
-#EXTINF:-1 tvg-id="SEO TV7" tvg-name="SEO TV7" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV7 | BO
+#EXTINF:-1 tvg-id="SEO TV siete" tvg-name="SEO TV siete" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TVsiete | BO
 https://live.seo.tv.bo/live/7SEO.m3u8
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
 https://srv.panelcast.net/telered/telered/chunklist_w134148811.m3u8
