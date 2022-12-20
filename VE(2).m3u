@@ -22,7 +22,7 @@ https://vcp4.myplaytv.com/tlt-ve/17122022.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVO" tvg-name="TVO" tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png", TVO | VE
 https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 #EXTINF:-1 tvg-id="VEPACO TV" tvg-name="Vepaco TV" tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV | VE
-https://vcp3.myplaytv.com/tvepaco/tvepaco/chunklist_w63059137.m3u8
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 #EXTINF:-1 tvg-id="TELESUR" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELESUR INGLES" tvg-name="Telesur English" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur English | VE
