@@ -61,7 +61,7 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w1405429519.m3u8
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://www.facebook.com/Seo.Tv.sat/photos/a.628717067268306/2322470241226305/", SEO TV | BO
+#EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV | BO
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="TELESOL" tvg-name="TELESOL" tvg-logo="https://cdn.simplesite.com/i/52/34/286260057839973458/i286260064382423434._szw480h360_.jpg", TELESOL | VE
 http://vcp1.myplaytv.com/telesol/telesol/chunklist_w221269581.m3u8
@@ -69,9 +69,9 @@ http://vcp1.myplaytv.com/telesol/telesol/chunklist_w221269581.m3u8
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-id="SEO TV KIDS" tvg-name="SEO TV KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-kids-bo.png", SEO TV KIDS | BO
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
-#EXTINF:-1 tvg-id="SEO TV RADIO" tvg-name="SEO TV RADIO" tvg-logo="https://www.facebook.com/Seo.Tv.sat/photos/a.628717067268306/2322470241226305/", SEO TV RADIO | BO
+#EXTINF:-1 tvg-id="SEO TV RADIO" tvg-name="SEO TV RADIO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV RADIO | BO
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
-#EXTINF:-1 tvg-id="SEO TV DEPORTES" tvg-name="SEO TV DEPORTES" tvg-logo="https://www.facebook.com/102333499158520/photos/a.102333535825183/148057341252802/", SEO TV DEPORTES | BO
+#EXTINF:-1 tvg-id="SEO TV DEPORTES" tvg-name="SEO TV DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV DEPORTES | BO
 https://live.seo.tv.bo/live/5SEO.m3u8
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
 https://srv.panelcast.net/telered/telered/chunklist_w134148811.m3u8
