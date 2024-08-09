@@ -4,17 +4,17 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nubeh TV" tvg-name="Nubeh TV" tvg-logo="https://www.nubeh.tv/nubehtv.png", Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Oxigeno Network" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1973565617.m3u8
+https://vcp.myplaytv.com:1936/oxigenotv/ngrp:oxigenotv_all/chunklist_w622552415_b65026.m3u8
 #EXTINF:-1 tvg-id="Panavision" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
-https://vcp.myplaytv.com/panavision/panavision/chunklist_w1277249006.m3u8
+https://vcp.myplaytv.com:1936/panavision/panavision/chunklist_w178074016.m3u8
 #EXTINF:-1 tvg-id="Canal Once Zulia" tvg-name="Canal Once Del Zulia" tvg-logo="https://yt3.googleusercontent.com/4X6R1LwV3W3CWhsNtMvmn-SJsa5Fg0TQhqfl2pKklg0IKJ-S6ANDo2ab1XM4ectGmLAHsVTb-Q=s88-c-k-c0x00ffffff-no-rj", Canal Once Del Zulia | VE
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwNWQ0OWUyMmNlYmY4ZmViMGM5N2YwNmJkZmEzZWNhOSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjkxMzE0NDEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.ZpFYz9vyvZMJqwntMCNE6oEfWwm30af7m-vdTWOdb6KdZcO3yFqoaI9XP2so5rGrmCv4EU7ut7Hw4BgOAyFxaJKz0pLjwdUetJ22NCh8Zlsnnuib7ngx_GFcSu7bVcCv64ftv4y4Pi_R32-7h_7X3N28ngJ9gvED0S3EnbSc8CtKlyZQFYYaBrjIB6sAUoPjIsEP0BHcm4BOCR76sPGq_jvFwbnr9VfNcD80tS4M6BCd39cuKMWQvERvmbrnOvmdKN-z7ew7JxDZSGib3dVo_73FDJvw-RB5v7uOLilNXS6na7qFJlJIGW7VWfx6sb_WetFjnJSLhj4Pq-zZ7XiHkw/manifest/video.m3u8
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIxNmVmMTQwYzYyZGU0Y2Y0NzhjZmJkNzMxZTNjYzBkYiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzIzMjY3Mzk1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Brlyi-bf8sfgol_hTr6KJXgnfXxGZhcxd3cNRB6sI63q8h1eCLUwi33KAHn4sYmHe9v3A6aS0os4UqLjvFpUwoJxwXU4k4xCN3D1e4KSTvVll2a6luQzvQpCaaSPafKdsAHL03pcv6a7mf-IOxobnXRlNLu3Bttg8W7PcVBafllVplOUJv8Ad9CIbdtfQOSYU_U-zpQTwf_vwC2G1XimalOw5-FGbCBFelgeGsdM8CYkYCQGqrA3xUXnJ6LUu2FoEJVjOP8gH8EhgAme-q0xrCeVeZikhBeGuhzdeglVtnZXu6rmeGJIVliN3wn8I65mILAYXaieDU42P28Eacw2vA/manifest/video.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg", Catatumbo TV | VE
-https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="Promar Tv" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
-https://vcp.myplaytv.com/promar/promar/chunklist_w937862147.m3u8
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="Reforma Tv" tvg-name="Reforma TV" tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png", Reforma TV | VE
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w983963151.m3u8
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele Aragua" tvg-name="Telearagua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png", Telearagua | VE
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
