@@ -133,7 +133,15 @@ https://live-magisproweb.yamyday.com/live/cyx_SshWnisnKC41ZzufL.m3u8?content_aut
 https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 #EXTINF:-1 tvg-id="CANAL DIPLOMATICO" tvg-name="CANAL DIPLOMATICO" tvg-logo="https://www.canaldiplomatico.com/canal-diplomatico.png", CANAL DIPLOMATICO | VE
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
-#EXTINF:-1 tvg-id="PLTV" tvg-name="" tvg-logo="https://i.imgur.com/ftblZ6f.jpg", CANAL PLTV | VE
+#EXTINF:-1 tvg-id="PLTV" tvg-name="CANAL PLTV" tvg-logo="https://i.imgur.com/ftblZ6f.jpg", CANAL PLTV | VE
 https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AGUACATE TV" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJ4gJN4j0cMllLd8BbRyJOgK8oabXMJp4g&s", AGUACATE TV | VE
+#EXTINF:-1 tvg-id="AGUACATE TV" tvg-name="AGUACATE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJ4gJN4j0cMllLd8BbRyJOgK8oabXMJp4g&s", AGUACATE TV | VE
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GUARO TV" tvg-name="GUARO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5qXx1B7l0vGVDotC1I7lExBDj2Y_10uyhA&s", GUARO TV | VE
+https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
+#EXTINF:-1 tvg-id=" INTER TV" tvg-name=" INTER TV" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", INTER TV | VE
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=" MAS TALK" tvg-name="MAS TALK" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", MAS TALK | VE
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id=" MDA TV" tvg-name="MAS TALK" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", MAS TALK | VE
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
