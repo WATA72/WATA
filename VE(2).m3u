@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
-#EXTINF:-1 tvg-id="Miranda Tv" tvg-name="Miranda TV" tvg-logo="https://www.mdatelevision.com/wp-content/uploads/elementor/thumbs/logo_mda_blanco-phes7tzda8hjkjlqjnwn6qt04bhqjwk6xl5xzoz7jc.png", MDA TV * | VE
-https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nubeh TV" tvg-name="Nubeh TV" tvg-logo="https://www.nubeh.tv/nubehtv.png", Nubeh TV * | VE
+#EXTINF:-1 tvg-id="Nubeh TV" tvg-name="Nubeh TV" tvg-logo="https://www.coolstreaming.us/img/ch/image72155000037.jpg", Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Oxigeno Network" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
 https://vcp.myplaytv.com:1936/oxigenotv/ngrp:oxigenotv_all/chunklist_w622552415_b65026.m3u8
