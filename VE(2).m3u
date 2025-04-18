@@ -20,8 +20,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="TELESUR INGLES" tvg-name="Telesur English" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", Telesur English | VE
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ShowVen" tvg-name="Show Ven" tvg-logo="https://play-lh.googleusercontent.com/vVd1VPRW9BgIgv1NzShVoVvYSwaxR3Xri99Dv4Ofm5qJd6jBMto0ZL9-mG0rTAdr6w", Show Ven | VE
-https://live-b.cf.dmcdn.net/sec2(aRee6LdEltClJJyIWRwZjVtNcVvSB7ZmPdxnPR1gh2xx0gMpknnoJ8qUQ1HXdXVg9iiMKh-DgKk6XV9H0ihFwpNXLiPzAFgbYxWi15RG5FrajWCoHjgAwCBCIYa3kimV)/dm/3/x9a8inm/s/live-480.m3u8
-#EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay | VE
+https://live-b.cf.dmcdn.net/sec2(5pxwFWTeoAhvkh5GYmIk7o0b7PR9LZhVbwlgwzuyC_OIM-APXDTp_9ozqkJ3MUv5wuEpxHJU9FfEcjFOabNEUgagqtQ0zJzrjIAnzik289betIjfbA9BrrLsIr7ajoWH)/dm/3/x9a8inm/s/live-480.m3u8
+#EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", TVS Maracay | VE
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
 #EXTINF:-1 tvg-id="Canal I" tvg-name="Canal i" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", Canal i | VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
