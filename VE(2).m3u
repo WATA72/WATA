@@ -81,8 +81,24 @@ https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/chunklis
 https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w504387845.m3u8
 #EXTINF:-1 tvg-id=" PORTUGUESA TV" tvg-name="PORTUGUESA TV" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg", PORTUGUESA TV | VE
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
+#EXTINF:-1 tvg-id=" TAM TV" tvg-name="TAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png", TAM TV | VE
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-id=" SIEMBRA TV" tvg-name="SIEMBRA TV" tvg-logo="https://i.imgur.com/zRX91Xr.png", SIEMBRA TV | VE
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w2145610536.m3u8
+#EXTINF:-1 tvg-id=" TNO TV" tvg-name="TNO TV" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png", TNO TV | VE
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/chunklist_w2008738251.m3u8
+#EXTINF:-1 tvg-id=" TOROCOCO TV" tvg-name="TOROCOCO TV" tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png", TOROCOCO TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=" TRT TV" tvg-name="TRT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG", TRT TV | VE
+https://vcp12.myplaytv.com/trt/trt/chunklist_w116047127.m3u8
+#EXTINF:-1 tvg-id=" TRV TV" tvg-name="TRV TV" tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png", TRV TV | VE
+https://vcp3.myplaytv.com/trv/trv/chunklist_w1287749310.m3u8
+#EXTINF:-1 tvg-id=" UNI TV" tvg-name="UNI TV" tvg-logo="https://i.imgur.com/KLGeznX.png", UNI TV | VE
+https://vcp6.myplaytv.com/unitv/unitv/chunklist_w557710610.m3u8
+#EXTINF:-1 tvg-id=" VALE TV" tvg-name="VALE TV" tvg-logo="https://i.imgur.com/NMI2Wed.png", VALE TV | VE
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w612919390.m3u8
+#EXTINF:-1 tvg-id=" PLOUS TV" tvg-name="PLOUS TV" tvg-logo="https://i.imgur.com/OSet4en.png", PLOUS TV | VE
+https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1018089235.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
