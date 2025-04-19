@@ -37,55 +37,29 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2069833307.m3u8
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
 https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://www.descifrado.com/wp-content/uploads/2019/10/720x540.jpg", ANTENA 3 | ES
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-id="IVC" tvg-name="IVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbqUJlDbCVpXVXexLqLknSm4uKSjRHOM6KBYKX9U&s", IVC | US
-https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
-#EXTINF:-1 tvg-id="TOON CAST" tvg-name="TOONCAST" tvg-logo="https://pm1.narvii.com/6127/d49565165e61da915e80dab8430d1a3f8bf21de0_hq.jpg", TOONCAST | US
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-mp4a_144800_spa=20000.m3u8
-#EXTINF:-1 tvg-id="BTA" tvg-name="BTA" tvg-logo="http://btatv.tv/btatv.png", BTA | VE
-https://vcp3.myplaytv.com/bta/bta/chunklist_w908082126.m3u8
+#EXTINF:-1 tvg-id="BTA" tvg-name="BTA" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png", BTA | VE
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="TRV" tvg-name="TRV" tvg-logo="http://lorini.net/trv/LOGOTRV.png", TRV | VE
 https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
 #EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", VTV | VE
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhb-3KnvEsY2SY0FpMBGHqxMAl6s9kkaTuvLRvnCt4CL)/dm/3/x828i6j/s/live-3.m3u8
-#EXTINF:-1 tvg-id="BARINAS TV" tvg-name="BARINAS TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9aKuDoeFXoSH1F5YOCSEFlFXlc0exO2uFYQVBGOg=s88-c-k-c0x00ffffff-no-rj", BTV | VE
-https://vcp2.myplaytv.com/barinastv/barinastv/chunklist_w1101529946.m3u8
-#EXTINF:-1 tvg-id="MUNDO MAS TV" tvg-name="MUNDO MAS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49c5d99bbb4f5e05cc3ebd7384fe6add.webp", M+TV | VE
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1793208872.m3u8
+https://live-b.cf.dmcdn.net/sec2(1uew-qxnFa0-pXMhAtxZXwnY2nf5qYJLirK0vN4tVmhwtqnWnzUIwE4MoI6e5PtL14n9vDyG2DXKkt_98nVC5fH81JXJsU0sIINtQPTq6pwYh0PgBLkC6TH64DXvJQ0U)/dm/3/x930kre/d/live-380.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png", France 24 ES | VE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661854448/ei/kI4NY7nYJ5LE4QTL3I_gDQ/ip/201.211.38.125/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJRhMoklF19rytdgH0wStJ8_RmanGjONj9nTZ5AozQWMCIQCaRrIFWbW09NX_LolfKDYS7uKzNSYq9wZ6LBJiUE0rEA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745109307/ei/2-wDaM6tOauFy_sPzKzl6Qo/ip/186.14.33.156/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcNd3GhheooC3YV4WT9-lzPEq2szBrP0FT59oj3jA-A9f56DI5uzRAviNz9n2ybo8pY_fQ/spc/_S3wKpUDVyXbVFybXwAC8TqYzdQKDTBVDO5ztmpj3h_QCqqiR3LzIBqfF1cvXaekEA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQSnmvZimu6qxKnPUvXGFK_CuM0FzK2TDCAqFHPGDSbgCIQCnh3S-KgLYuBuhYLZLbisKnGhC0TRBegE5iewBm3Gdzw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RT TV" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/188px-Russia-today-logo.svg.png", RT ES | RUS
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png", ADN 40 | MEX
-https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/a2ab2314-5658-4731-8fe5-4edce405938d:CHS/variant/2a5f58e843ae7a44cacd0db77f4565a6/bandwidth/712800.m3u8
 #EXTINF:-1 tvg-id="TELECOLOR" tvg-name="Telecolor" tvg-logo="https://i2.paste.pics/a0f5ba424b3a227e3826f146b5063138.png", Telecolor | VE
-https://vcp.myplaytv.com/telecolor/telecolor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1203" tvg-name="Chivacoa TV" tvg-logo="https://i2.paste.pics/54f39c6830199197a0c147097e91eb54.png", Chivacoa TV | VE
-https://vdo.panelstreaming.live:3974/hybrid/play.m3u8?PlaylistM3UCL
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 tvg-id="E SPORTS" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="FIESTA MAX" tvg-name="Fiesta Max TV" tvg-logo="https://i2.paste.pics/44d839eef2ee10d75d93b498dc776dfc.png", Fiesta Max TV | VE
-http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="HUMOR CHANNEL" tvg-name="Humor Max Channel" tvg-logo="https://i2.paste.pics/9d44b7a5c2c55d571134074f6057fee3.png", Humor Max Channel | VE
-http://vcpar.myplaytv.com/humormax/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CANTINA TV" tvg-name="Cantina TV" tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png", Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="EXC TV" tvg-name="EXC TV" tvg-logo="https://i2.paste.pics/809204eb3ad39d8c9429bbfd4358884d.png", EXC TV | VE
-https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MIRANDA TV" tvg-name="Miranda TV" tvg-logo="https://i2.paste.pics/011fb5268f5b04f0940a71041a2db28e.png", Miranda TV | VE
-https://vcp.myplaytv.com/mdatv/mdtav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="PLTV" tvg-name="PLTV" tvg-logo="https://i2.paste.pics/9562d397b4d3062c8f0b90c235a8c4e9.png", PLTV | VE
-https://vcp.myplaytv.com/pltv/pltv/chunklist_w1173296209.m3u8
 #EXTINF:-1 tvg-id="TV FANB" tvg-name="TV FANB" tvg-logo="https://i2.paste.pics/a8b5e009d5d735ea3c62feb24231cc0f.png", TV FANB | VE
-https://vcp2.myplaytv.com/tvfanb/tvfenab/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CNN EN ESPANOL" tvg-name="CNN EN ESPANOL" tvg-logo="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png", CNN ESPANOL | VE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663836654/ei/js0rY73GK8SCy_sP_8O0wAM/ip/201.211.54.171/id/1k3gt11THz4.172/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ve/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL4UQjjXZnOXLDAcj4VizvTYPqx9uhlpHBanTX8-PnqbAiEAvdERNayW-WaHzqDpr5bkuOtupVK2JC_RYmaqvKQW1wg%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="GLOBOVISION" tvg-name="GLOBO VISION" tvg-logo="https://yt3.ggpht.com/RlSRDysdiCOHOZbwCkYueV_x2nyBBmTu3yni3kdEtSnBq71GOcAk2EGjBIjVADO_Fac0vdVnyv8=s900-c-k-c0x00ffffff-no-rj", GLOBO VISION | VE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745020858/ei/WpMCaIvMBvjAy_sP4LWlkAQ/ip/186.14.33.156/id/rEg852uZaEo.21/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcPoNBzPEmi0YB6qEdjgv4o8YN8xElc-Yqm3MhKhDMwXLfebMVwKGobf02lQ-8JeX1th-w/spc/_S3wKh55EVyEXw5dnl9Kb0sSb1JoOxQh-Fk5D9XORJkJAhwRw9xIhGYxHF0OfqFxlQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZfMl-ud5zyaJPs6A-hTDm1Y54bAN2OxIrsOOl5xHbgACIQDKSQ1fLd9vuGcB3Vf4aKGQKTWgMrVR2ip8LGvYcm9R9A%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="TV FAMILIA" tvg-name="TV FAMILIA" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png", TV FAMILIA | VE
+https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w769666983.m3u8
+#EXTINF:-1 tvg-id="GLOBOVISION" tvg-name="GLOBO VISION" tvg-logo="https://www.globovision.com/img/logo-2024.png?v=2", GLOBO VISION | VE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745110512/ei/kPEDaMvJBoKy0_wPu_u64Ac/ip/186.14.33.156/id/rEg852uZaEo.21/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcO2D5Px9eJ-e2l3KYugvFFzpB8W1cwEU0C_2ATVRt6bgtnZnrLmjYLDEuc_nvya7MkhiQ/spc/_S3wKmIawR_0EDtZ7N0LT-Gum6yQNuXT5j6ltvLktxaHEmZBYGAgy1UZRUg5fSna1Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYd-cZjo_nz6k-Q69FeB-h--m0osSb2-7-jQagHhIeH4CID5_DM77MzV5xd_i2uMZRVyihMz26yXDH-7TQEknxMq7/file/index.m3u8
+#EXTINF:-1 tvg-id="TV FAMILIA" tvg-name="TV FAMILIA" tvg-logo="https://tvfamilia.com/wp-content/uploads/2020/07/loop-TVF-Tex-Blanco-Fondo-Negro.gif", TV FAMILIA | VE
 https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 #EXTINF:-1 tvg-id="CANAL DIPLOMATICO" tvg-name="CANAL DIPLOMATICO" tvg-logo="https://www.canaldiplomatico.com/canal-diplomatico.png", CANAL DIPLOMATICO | VE
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
