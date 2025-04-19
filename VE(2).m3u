@@ -27,22 +27,12 @@ https://www.dailymotion.com/cdn/live/video/x9a8inm.m3u8?sec=k61q8P9yWq67VbUEmYLc
 https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1745161497~data=ip=186.14.33.156%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=d7445e0074997af048f2478ce3dc84311dc0cb577ad5fe2436740b685c711eea/index_3.m3u8
 #EXTINF:-1 tvg-id="Retro Plus" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Retro Plus TV | CL
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Urban TV" tvg-name="Urban TV" tvg-logo="https://www.urbanrevolution.es/wp-content/uploads/2023/01/logo-horizontal.png", Urban TV | ES
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Rewind R TV" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/731c365cab15afcdd35861bb1485c6e4.png", Rewind Radio y TV | CL
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png", Recuerdos Retro Radio TV | CL
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Natanael TV" tvg-name="Natanael TV" tvg-logo="https://lh3.googleusercontent.com/-deFb75UFktE/YKwi66hjaNI/AAAAAAABCho/NMTn7zkpR34vtSQ_nLQDfznppbQGXpTmACK8BGAsYHg/s512/2021-05-24.png", Natanael TV | PA
-https://stmv1.voxhdnet.com/ventvpremium/ventvpremium/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png", Recuerdos Retro Radio TV | CL
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w145698864.m3u8
 #EXTINF:-1 tvg-id="Italianissimo" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
 #EXTINF:-1 tvg-id="Movie FE" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2069833307.m3u8
-#EXTINF:-1 tvg-id="Anzoategui TV" tvg-name="Anzoategui TV" tvg-logo="https://i2.paste.pics/424b6a55497d0fcf8744e5a55ba2ff93.png", Anzoategui TV | VE
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w1405429519.m3u8
-#EXTINF:-1 tvg-id="Mundo de la Musica" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV | CL
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV | BO
