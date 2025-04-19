@@ -21,6 +21,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", TVS Maracay | VE
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
+#EXTINF:-1 tvg-id="Showven" tvg-name="Showven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", Showven | VE
+https://www.dailymotion.com/cdn/live/video/x9a8inm.m3u8?sec=k61q8P9yWq67VbUEmYLcUwkiSYOBjRxXy-4fJU9Adl-nXIagMPYAfP1xIGI9hynivjD3yaMeg65hEv2ouemIsQ&dmTs=727265&dmV1st=5601e663-11e4-2b9b-2e4a-8a09988cda31
 #EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", Televen | VE
 https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1745161497~data=ip=186.14.33.156%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=d7445e0074997af048f2478ce3dc84311dc0cb577ad5fe2436740b685c711eea/index_3.m3u8
 #EXTINF:-1 tvg-id="Retro Plus" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV | CL
