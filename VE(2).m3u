@@ -20,7 +20,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="TELESUR INGLES" tvg-name="Telesur English" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", Telesur English | VE
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ShowVen" tvg-name="Show Ven" tvg-logo="https://play-lh.googleusercontent.com/vVd1VPRW9BgIgv1NzShVoVvYSwaxR3Xri99Dv4Ofm5qJd6jBMto0ZL9-mG0rTAdr6w", Show Ven | VE
-
 https://live-b.cf.dmcdn.net/sec2(XhkjjrqvOCSIfs3bvf2Le74qSxw7hcKIKjOFTvX3035WWPGUHsj2gIbmTz5r4jtCSMepsB9Fa73YMhe6X9Pe7aV1JEZc4yP9m9h8LyM9BJsj4DayeWEepw80h0_QRceK)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", TVS Maracay | VE
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
@@ -29,7 +28,7 @@ https://canali-live.akamaized.net/hls/live/2112725/CANALI_LIVE/2/streamPlaylist.
 #EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", Televen | VE
 https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1745161497~data=ip=186.14.33.156%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=d7445e0074997af048f2478ce3dc84311dc0cb577ad5fe2436740b685c711eea/index_3.m3u8
 #EXTINF:-1 tvg-id="Venevision" tvg-name="Venevision" tvg-logo="https://lh3.googleusercontent.com/-A5WgWXaqOSw/YEthPZBXIVI/AAAAAAABAkc/K4ZAK7c9hAoCN5MlTXctd8jG2gPMeABcACK8BGAsYHg/s512/2021-03-12.png", Venevision | VE
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+https://canali-live.akamaized.net/hls/live/2112725/CANALI_LIVE/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Solo Stand UP" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Retro Plus" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV | CL
