@@ -23,17 +23,11 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
 #EXTINF:-1 tvg-id="Showven" tvg-name="Showven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", Showven | VE
 https://www.dailymotion.com/cdn/live/video/x9a8inm.m3u8?sec=k61q8P9yWq67VbUEmYLcUwkiSYOBjRxXy-4fJU9Adl-nXIagMPYAfP1xIGI9hynivjD3yaMeg65hEv2ouemIsQ&dmTs=727265&dmV1st=5601e663-11e4-2b9b-2e4a-8a09988cda31
-#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevision" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/images/logo-venevision-bk-light_326x50.png", Venevision | VE
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 #EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", Televen | VE
 https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1745161497~data=ip=186.14.33.156%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=d7445e0074997af048f2478ce3dc84311dc0cb577ad5fe2436740b685c711eea/index_3.m3u8
 #EXTINF:-1 tvg-id="Retro Plus" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Retro Plus TV | CL
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Retro Plus 2" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Retro Plus 3" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Urban TV" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV | ES
+#EXTINF:-1 tvg-id="Urban TV" tvg-name="Urban TV" tvg-logo="https://www.urbanrevolution.es/wp-content/uploads/2023/01/logo-horizontal.png", Urban TV | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Rewind R TV" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/731c365cab15afcdd35861bb1485c6e4.png", Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
