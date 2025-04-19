@@ -60,21 +60,21 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w769666983.m3u8
 #EXTINF:-1 tvg-id="GLOBOVISION" tvg-name="GLOBO VISION" tvg-logo="https://www.globovision.com/img/logo-2024.png?v=2", GLOBO VISION | VE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745110512/ei/kPEDaMvJBoKy0_wPu_u64Ac/ip/186.14.33.156/id/rEg852uZaEo.21/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcO2D5Px9eJ-e2l3KYugvFFzpB8W1cwEU0C_2ATVRt6bgtnZnrLmjYLDEuc_nvya7MkhiQ/spc/_S3wKmIawR_0EDtZ7N0LT-Gum6yQNuXT5j6ltvLktxaHEmZBYGAgy1UZRUg5fSna1Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYd-cZjo_nz6k-Q69FeB-h--m0osSb2-7-jQagHhIeH4CID5_DM77MzV5xd_i2uMZRVyihMz26yXDH-7TQEknxMq7/file/index.m3u8
 #EXTINF:-1 tvg-id="TV FAMILIA" tvg-name="TV FAMILIA" tvg-logo="https://tvfamilia.com/wp-content/uploads/2020/07/loop-TVF-Tex-Blanco-Fondo-Negro.gif", TV FAMILIA | VE
-https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1985475239.m3u8
 #EXTINF:-1 tvg-id="CANAL DIPLOMATICO" tvg-name="CANAL DIPLOMATICO" tvg-logo="https://www.canaldiplomatico.com/canal-diplomatico.png", CANAL DIPLOMATICO | VE
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
-#EXTINF:-1 tvg-id="PLTV" tvg-name="CANAL PLTV" tvg-logo="https://i.imgur.com/ftblZ6f.jpg", CANAL PLTV | VE
-https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AGUACATE TV" tvg-name="AGUACATE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJ4gJN4j0cMllLd8BbRyJOgK8oabXMJp4g&s", AGUACATE TV | VE
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GUARO TV" tvg-name="GUARO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5qXx1B7l0vGVDotC1I7lExBDj2Y_10uyhA&s", GUARO TV | VE
-https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name=" INTER TV" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 tvg-id=" MAS TALK" tvg-name="MAS TALK" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", MAS TALK | VE
-https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id=" TELEBOCONO" tvg-name="TELEBOCONO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7LrPTFAE-Pg0Usiql9xtwVlnvLoRJyQ0LQ&s", TELEBOCONO | VE
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
+#EXTINF:-1 tvg-id=" CANAL 21 TACHIRA" tvg-name="CANAL 21 TACHIRA" tvg-logo="https://i.imgur.com/7Tb7CF4.jpeg", CANAL 21 TACHIRA | VE
+https://stmv2.voxtvhd.com.br/canal21/canal21/chunklist_w1034881954.m3u8
+#EXTINF:-1 tvg-id=" ISLA TV" tvg-name="ISLA TV" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg", ISLA TV | VE
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w235771335.m3u8
+#EXTINF:-1 tvg-id=" LATINA TV" tvg-name="LATINA TV" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1", LATINA TV | VE
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
