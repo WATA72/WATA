@@ -75,3 +75,11 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id=" TELEBOCONO" tvg-name="TELEBOCONO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7LrPTFAE-Pg0Usiql9xtwVlnvLoRJyQ0LQ&s", TELEBOCONO | VE
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
+#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
