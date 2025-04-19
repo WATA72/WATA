@@ -88,7 +88,7 @@ https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w214561053
 #EXTINF:-1 tvg-id=" TNO TV" tvg-name="TNO TV" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png", TNO TV | VE
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/chunklist_w2008738251.m3u8
 #EXTINF:-1 tvg-id=" TOROCOCO TV" tvg-name="TOROCOCO TV" tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png", TOROCOCO TV | VE
-https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" TRT TV" tvg-name="TRT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG", TRT TV | VE
 https://vcp12.myplaytv.com/trt/trt/chunklist_w116047127.m3u8
 #EXTINF:-1 tvg-id=" TRV TV" tvg-name="TRV TV" tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png", TRV TV | VE
@@ -99,9 +99,17 @@ https://vcp6.myplaytv.com/unitv/unitv/chunklist_w557710610.m3u8
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w612919390.m3u8
 #EXTINF:-1 tvg-id=" PLOUS TV" tvg-name="PLOUS TV" tvg-logo="https://i.imgur.com/OSet4en.png", PLOUS TV | VE
 https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1018089235.m3u8
-#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
-https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
-https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=" CANTINA TV" tvg-name="CANTINA TV" tvg-logo="https://i.imgur.com/JWMk2fP.png", CANTINA TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w1333773723.m3u8
+#EXTINF:-1 tvg-id=" ITALIANISSIMO TV" tvg-name="ITALIANISSIMO TV" tvg-logo="https://i.imgur.com/JCpbUZB.png", ITALIANISSIMO TV | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w852994614.m3u8
+#EXTINF:-1 tvg-id=" KANDELA TV" tvg-name="KANDELA TV" tvg-logo="https://i.imgur.com/cCFxyIp.jpg", KANDELA TV | VE
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id=" OXIGEN0 TV" tvg-name="OXIGEN0 TV" tvg-logo="https://i.imgur.com/n3PweBQ.png", OXIGEN0 TV | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w258259006.m3u8
+#EXTINF:-1 tvg-id=" VPI TV " tvg-name="VPI TV " tvg-logo="https://i.imgur.com/X5hyKU8.png", VPI TV | VE
+https://live-us.streann.tech/vpi1/vpi1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDUxMTM1MjksInJpZCI6IjVkMjNiMWNlMmNkY2U2MWRhZTAyOWY5YyIsImtleSI6ImtleTEiLCJjaWQiOiI1ZDIzZDU4ODJjZGNlNjFkYWUwMjlmZDgifQ.cqnTudDqBGJOz6ZdYl6V8reVJeNCULD7W22ALBl9K8o
+#EXTINF:-1 tvg-id=" ALCANCE TV" tvg-name="ALCANCE TV" tvg-logo="https://i.imgur.com/veeuqS1.png", ALCANCE TV | VE
+https://videolatam.com:3516/live/tjjqdqurlive.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
