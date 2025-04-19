@@ -35,24 +35,8 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2069833307.m3u8
 #EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV | BO
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-#EXTINF:-1 tvg-id="TELESOL" tvg-name="TELESOL" tvg-logo="https://cdn.simplesite.com/i/52/34/286260057839973458/i286260064382423434._szw480h360_.jpg", TELESOL | VE
-http://vcp1.myplaytv.com/telesol/telesol/chunklist_w221269581.m3u8
-#EXTINF:-1 tvg-id="SEO TV NOVELAS" tvg-name="SEO TV NOVELAS" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2007/09/tlnovelas_logo.jpg", SEO TV NOVELAS| BO
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTINF:-1 tvg-id="SEO TV KIDS" tvg-name="SEO TV KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-kids-bo.png", SEO TV KIDS | BO
-https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
-#EXTINF:-1 tvg-id="SEO TV RADIO" tvg-name="SEO TV RADIO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV RADIO | BO
-https://panel.seo.tv.bo:3314/live/seolive.m3u8
-#EXTINF:-1 tvg-id="SEO TV DEPORTES" tvg-name="SEO TV DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV DEPORTES | BO
-https://live.seo.tv.bo/live/5SEO.m3u8
-#EXTINF:-1 tvg-id="SEO TV seis" tvg-name="SEO TV seis" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TVseis | BO
-https://live.seo.tv.bo/live/6SEO.m3u8
-#EXTINF:-1 tvg-id="SEO TV siete" tvg-name="SEO TV siete" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TVsiete | BO
-https://live.seo.tv.bo/live/7SEO.m3u8
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
-https://srv.panelcast.net/telered/telered/chunklist_w134148811.m3u8
+https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://www.descifrado.com/wp-content/uploads/2019/10/720x540.jpg", ANTENA 3 | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="IVC" tvg-name="IVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbqUJlDbCVpXVXexLqLknSm4uKSjRHOM6KBYKX9U&s", IVC | US
