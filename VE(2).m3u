@@ -43,8 +43,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
 #EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", VTV | VE
-https://live-b.cf.dmcdn.net/sec2(1uew-qxnFa0-pXMhAtxZXwnY2nf5qYJLirK0vN4tVmhwtqnWnzUIwE4MoI6e5PtL14n9vDyG2DXKkt_98nVC5fH81JXJsU0sIINtQPTq6pwYh0PgBLkC6TH64DXvJQ0U)/dm/3/x930kre/d/live-380.m3u8
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", Seo Peliculas | VE
+https://seo.tv.bo/tv/FIpSEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png", France 24 ES | VE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745109307/ei/2-wDaM6tOauFy_sPzKzl6Qo/ip/186.14.33.156/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcNd3GhheooC3YV4WT9-lzPEq2szBrP0FT59oj3jA-A9f56DI5uzRAviNz9n2ybo8pY_fQ/spc/_S3wKpUDVyXbVFybXwAC8TqYzdQKDTBVDO5ztmpj3h_QCqqiR3LzIBqfF1cvXaekEA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQSnmvZimu6qxKnPUvXGFK_CuM0FzK2TDCAqFHPGDSbgCIQCnh3S-KgLYuBuhYLZLbisKnGhC0TRBegE5iewBm3Gdzw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RT TV" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/188px-Russia-today-logo.svg.png", RT ES | RUS
