@@ -117,3 +117,125 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png", Oromar TV| VE
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA CINE TV" tvg-logo="https://i.ibb.co/BywZfPJ/2893-294x165-ffffff.png" group-title="CINE / SERIES | HD",MEGA CINE TV
+https://nxt.plus:8443/leopardi/1234/244247
+#EXTINF:-1 tvg-id="SYFY.uy" tvg-name="USA NETWORK ᴴᴰ (SYFY)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/syfy-hd.png" group-title="CINE / SERIES | HD",USA NETWORK ᴴᴰ (SYFY)
+https://nxt.plus:8443/leopardi/1234/13230
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="M+ DREAMWORKS ᴴᴰ" tvg-logo="" group-title="CINE / SERIES | HD",M+ DREAMWORKS ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/172502
+#EXTINF:-1 tvg-id="" tvg-name="CINE|PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="CINE / SERIES | HD",CINE|PREMIUM
+https://nxt.plus:8443/leopardi/1234/254567
+#EXTINF:-1 tvg-id="AR - Warner Channel" tvg-name="WARNER TV SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png" group-title="CINE / SERIES | HD",WARNER TV SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/1024
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="PARAMOUNT NETWORK ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel-hd.png" group-title="CINE / SERIES | HD",PARAMOUNT NETWORK ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/3268
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmericaSouth.us" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/comedy-central-hd.png" group-title="CINE / SERIES | HD",COMEDY CENTRAL ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/9767
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINEMAX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinemax-hd.png" group-title="CINE / SERIES | HD",CINEMAX ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16903
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXN SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/axn-hd.png" group-title="CINE / SERIES | HD",AXN SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/1021
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-hd.png" group-title="CINE / SERIES | HD",HBO SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16897
+#EXTINF:-1 tvg-id="FX.cl" tvg-name="FX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png" group-title="CINE / SERIES | HD",FX ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/3270
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png" group-title="CINE / SERIES | HD",A&E SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/58123
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL TV ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/3271
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png" group-title="CINE / SERIES | HD",SPACE SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16922
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png" group-title="CINE / SERIES | HD",TNT SERIES ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16925
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE / SERIES | HD",TNT SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/25213
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png" group-title="CINE / SERIES | HD",AMC SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/24818
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Costa.Rica).cr" tvg-name="TRU TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tru-tv-hd.png" group-title="CINE / SERIES | HD",TRU TV ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/118117
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL **ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png" group-title="CINE / SERIES | HD",STAR CHANNEL **ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/230923
+#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-name="TCM ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tcm.png" group-title="CINE / SERIES | HD",TCM ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/238289
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  CHᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png" group-title="CINE / SERIES | HD",STAR CHANNEL  CHᴴᴰ
+https://nxt.plus:8443/leopardi/1234/238322
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  ARᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png" group-title="CINE / SERIES | HD",STAR CHANNEL  ARᴴᴰ
+https://nxt.plus:8443/leopardi/1234/238323
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/adult-swim-hd.png" group-title="CINE / SERIES | HD",ADULT SWIM ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/243215
+#EXTINF:-1 tvg-id="CanalClaro.sv" tvg-name="CANAL CLARO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/canal-claro-hd.png" group-title="CINE / SERIES | HD",CANAL CLARO ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/245215
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="A3 SERIES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/a3-series-hd.png" group-title="CINE / SERIES | HD",A3 SERIES ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/24961
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="CINEMA DINAMITA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinema-dinamita-hd.png" group-title="CINE / SERIES | HD",CINEMA DINAMITA ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/53020
+#EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="DE PELICULA CLASICO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-clasico.png" group-title="CINE / SERIES | HD",DE PELICULA CLASICO ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/65203
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DE PELÍCULA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="CINE / SERIES | HD",DE PELÍCULA ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/43492
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DE PELÍCULA+ ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png" group-title="CINE / SERIES | HD",DE PELÍCULA+ ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/43494
+#EXTINF:-1 tvg-id="DHE.mx" tvg-name="DHE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/dhe.png" group-title="CINE / SERIES | HD",DHE ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16929
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="GOLDEN PLUS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-plus-hd.png" group-title="CINE / SERIES | HD",GOLDEN PLUS ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/9771
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GOLDEN PREMIER 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier-2.png" group-title="CINE / SERIES | HD",GOLDEN PREMIER 2 ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/59491
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-2-hd.png" group-title="CINE / SERIES | HD",HBO 2 ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/7090
+#EXTINF:-1 tvg-id="HBOFamily.la" tvg-name="HBO FAMILY ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-family-hd.png" group-title="CINE / SERIES | HD",HBO FAMILY ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/3273
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-pop-hd.png" group-title="CINE / SERIES | HD",HBO POP ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16902
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO+ ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-plus-hd.png" group-title="CINE / SERIES | HD",HBO+ ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16900
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="SONY CHANNEL  ARᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-hd.png" group-title="CINE / SERIES | HD",SONY CHANNEL  ARᴴᴰ
+https://nxt.plus:8443/leopardi/1234/27799
+#EXTINF:-1 tvg-id="STAR.CHANNEL.uy" tvg-name="STAR CHANNEL  *ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png" group-title="CINE / SERIES | HD",STAR CHANNEL  *ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/118115
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="CINE AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-ar-hd.png" group-title="CINE / SERIES | HD",CINE AR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/183274
+#EXTINF:-1 tvg-id="GT - Distrito Comedia" tvg-name="DISTRITO COMEDIA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/distrito-comedia-hd.png" group-title="CINE / SERIES | HD",DISTRITO COMEDIA ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/59612
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-latino.png" group-title="CINE / SERIES | HD",CINE LATINO ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/24648
+#EXTINF:-1 tvg-id="CO - Multipremier" tvg-name="MULTIPREMIER ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/multipremier-hd.png" group-title="CINE / SERIES | HD",MULTIPREMIER ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/189604
+#EXTINF:-1 tvg-id="Golden.cl" tvg-name="GOLDEN ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden.png" group-title="CINE / SERIES | HD",GOLDEN ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/9769
+#EXTINF:-1 tvg-id="Cinecanal.sur" tvg-name="CINECANAL SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinecanal-hd.png" group-title="CINE / SERIES | HD",CINECANAL SUR ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/2833
+#EXTINF:-1 tvg-id="Canal.2.de.República.Dominicana.(Teleantillas).dk" tvg-name="KANAL D DRAMA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/kanal-d-drama-hd.png" group-title="CINE / SERIES | HD",KANAL D DRAMA ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/57182
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="GOLDEN EDGE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-edge.png" group-title="CINE / SERIES | HD",GOLDEN EDGE ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/169449
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-mundi-hd.png" group-title="CINE / SERIES | HD",HBO MUNDI ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/13883
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ CINEMA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/az-cinema.png" group-title="CINE / SERIES | HD",AZ CINEMA ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/160510
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-movies-hd.png" group-title="CINE / SERIES | HD",SONY MOVIES ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/114820
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier.png" group-title="CINE / SERIES | HD",GOLDEN PREMIER 1 ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/59490
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="CINE PREMIERE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-premiere-hd.png" group-title="CINE / SERIES | HD",CINE PREMIERE ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/207237
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY MX" tvg-name="UNIVERSAL REALITY  ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-reality-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL REALITY  ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16923
+#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO XTREME ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme-hd.png" group-title="CINE / SERIES | HD",HBO XTREME ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/169451
+#EXTINF:-1 tvg-id="HBOSignature.la" tvg-name="HBO SIGNATURE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-signature-hd.png" group-title="CINE / SERIES | HD",HBO SIGNATURE ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/16898
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL CINEMA ESTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-cinema-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL CINEMA ESTE ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/9778
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL CRIME CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-crime-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL CRIME CENTRO ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/9777
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png" group-title="CINE / SERIES | HD",STUDIO UNIVERSAL ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/9780
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE MX" tvg-name="UNIVERSAL PREMIERE 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL PREMIERE 1 ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/14491
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL COMEDY ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-comedy-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL COMEDY ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/24328
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE PY" tvg-name="UNIVERSAL PREMIERE OESTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL PREMIERE OESTE ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/167880
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="CLOVER ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/clover.png" group-title="CINE / SERIES | HD",CLOVER ᴴᴰ
+https://nxt.plus:8443/leopardi/1234/187876
