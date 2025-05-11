@@ -16,7 +16,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-id="VEPACO TV" tvg-name="Vepaco TV" tvg-logo="https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png", Vepaco TV | VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="TELESUR" tvg-name="Telesur" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", Telesur | VE
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/1080p/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="TELESUR INGLES" tvg-name="Telesur English" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", Telesur English | VE
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", TVS Maracay | VE
