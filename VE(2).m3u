@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
-#EXTINF:-1 tvg-id="Nubeh TV" tvg-name="Nubeh TV" tvg-logo="https://www.coolstreaming.us/img/ch/image72155000037.jpg", Nubeh TV * | VE
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nubeh TV" tvg-name="Wata Vision" tvg-logo="https://www.coolstreaming.us/img/ch/image72155000037.jpg", WataVision * | VE
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
 #EXTINF:-1 tvg-id="Panavision" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png", Catatumbo TV | VE
