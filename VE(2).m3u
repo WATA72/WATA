@@ -25,14 +25,14 @@ https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
 https://www.dailymotion.com/cdn/live/video/x9a8inm.m3u8?sec=k61q8P9yWq67VbUEmYLcUwkiSYOBjRxXy-4fJU9Adl-nXIagMPYAfP1xIGI9hynivjD3yaMeg65hEv2ouemIsQ&dmTs=727265&dmV1st=5601e663-11e4-2b9b-2e4a-8a09988cda31
 #EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", SEO TV | VE
 https://seo.tv.bo/tv/FIpSEO-TV-1.m3u8
-#EXTINF:-1 tvg-id="Retro Plus" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Retro Plus TV | CL
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Casa Grande TV | CL
+https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w145698864.m3u8
 #EXTINF:-1 tvg-id="Italianissimo" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
-#EXTINF:-1 tvg-id="Movie FE" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2069833307.m3u8
+#EXTINF:-1 tvg-id="Meganet" tvg-name="Meganet" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", Meganet | VE
+https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/chunks.m3u8
 #EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
@@ -68,7 +68,7 @@ https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name=" INTER TV" tvg-logo="https://play-lh.googleusercontent.com/MRjB4A1yZjNSF4DIIIeRmuPEQ12YEgq-QLhcIsVe1ExG5JYKAjjrp2I6Y25s54O2RKB5=w2560-h1440-rw", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=" TELEBOCONO" tvg-name="TELEBOCONO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7LrPTFAE-Pg0Usiql9xtwVlnvLoRJyQ0LQ&s", TELEBOCONO | VE
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
 #EXTINF:-1 tvg-id=" CANAL 21 TACHIRA" tvg-name="CANAL 21 TACHIRA" tvg-logo="https://i.imgur.com/7Tb7CF4.jpeg", CANAL 21 TACHIRA | VE
 https://stmv2.voxtvhd.com.br/canal21/canal21/chunklist_w1034881954.m3u8
 #EXTINF:-1 tvg-id=" ISLA TV" tvg-name="ISLA TV" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg", ISLA TV | VE
@@ -117,3 +117,5 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png", Oromar TV| VE
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png",Cartoon Tv| VE
+https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
