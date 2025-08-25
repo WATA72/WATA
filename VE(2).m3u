@@ -24,7 +24,7 @@ https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
 #EXTINF:-1 tvg-id="Showven" tvg-name="Showven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", Showven | VE
 https://www.dailymotion.com/cdn/live/video/x9a8inm.m3u8?sec=k61q8P9yWq67VbUEmYLcUwkiSYOBjRxXy-4fJU9Adl-nXIagMPYAfP1xIGI9hynivjD3yaMeg65hEv2ouemIsQ&dmTs=727265&dmV1st=5601e663-11e4-2b9b-2e4a-8a09988cda31
 #EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", SEO TV | VE
-https://seo.tv.bo/tv/FIpSEO-TV-1.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Casa Grande TV | CL
 https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png", Recuerdos Retro Radio TV | CL
@@ -33,8 +33,8 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w145698864.m3u8
 https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
 #EXTINF:-1 tvg-id="Meganet" tvg-name="Meganet" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", Meganet | VE
 https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/chunks.m3u8
-#EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV | VE
-https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="quaeretv" tvg-name="quaeretv" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", quaeretv | VE
+https://live20.bozztv.com/giatv/giatv-quaeretv/quaeretv/chunks.m3u8
 #EXTINF:-1 tvg-id="TELERED" tvg-name="TELERED" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6269617106186e000117f289/picture", TELERED | AG
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="BTA" tvg-name="BTA" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png", BTA | VE
@@ -44,7 +44,7 @@ https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
 #EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", Seo Peliculas | VE
-https://seo.tv.bo/tv/FIpSEO-TV-4.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png", France 24 ES | VE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745109307/ei/2-wDaM6tOauFy_sPzKzl6Qo/ip/186.14.33.156/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcNd3GhheooC3YV4WT9-lzPEq2szBrP0FT59oj3jA-A9f56DI5uzRAviNz9n2ybo8pY_fQ/spc/_S3wKpUDVyXbVFybXwAC8TqYzdQKDTBVDO5ztmpj3h_QCqqiR3LzIBqfF1cvXaekEA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQSnmvZimu6qxKnPUvXGFK_CuM0FzK2TDCAqFHPGDSbgCIQCnh3S-KgLYuBuhYLZLbisKnGhC0TRBegE5iewBm3Gdzw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RT TV" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/188px-Russia-today-logo.svg.png", RT ES | RUS
