@@ -119,3 +119,5 @@ https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png",Cartoon Tv| VE
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
+#EXTINF:-1 tvg-id="Vive" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png",Vive | VE
+https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/live.m3u8
