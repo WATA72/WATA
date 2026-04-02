@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 #EXTINF:-1 tvg-id="Wata Vision" tvg-name="Wata Vision" tvg-logo="https://i.postimg.cc/T3jhT9XD/watavision.jpg", WataVision * | VE
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
-#EXTINF:-1 tvg-id="Panavision" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Watavision sd" tvg-name="WataVision sd" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
+https://cloud.odysee.live/content/e6ae253f5bb15f4dc500dcd4a8236479223e023b/live.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png", Catatumbo TV | VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="Promar Tv" tvg-name="Promar TV" tvg-logo="http://promar.tv/wp-content/uploads/2016/09/promar-logo.png", Promar TV | VE
