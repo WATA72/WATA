@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 #EXTINF:-1 tvg-id="Wata Vision" tvg-name="Wata Vision" tvg-logo="https://i.postimg.cc/T3jhT9XD/watavision.jpg", WataVision * | VE
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
-#EXTINF:-1 tvg-id="Watavision sd" tvg-name="WataVision sd" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
-https://cloud.odysee.live/content/e6ae253f5bb15f4dc500dcd4a8236479223e023b/live.m3u8
+#EXTINF:-1 tvg-id="Carton Clasicos" tvg-name="Carton Clasicos" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png", Catatumbo TV | VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="Promar Tv" tvg-name="Promar TV" tvg-logo="http://promar.tv/wp-content/uploads/2016/09/promar-logo.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="Reforma Tv" tvg-name="Reforma TV" tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png", Reforma TV | VE
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolivia TVE" tvg-name="Bolivia TVE" tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png", Reforma TV | VE
+https://live20.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 #EXTINF:-1 tvg-id="Tele Aragua" tvg-name="Telearagua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TeleAragua_Logo.png", Telearagua | VE
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-id="TVO" tvg-name="TVO" tvg-logo="https://tvotv.tv/wp-content/uploads/2022/09/logotvo.png", TVO | VE
@@ -21,12 +21,12 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/chunklist_w1788740353.m3u8
 #EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", TVS Maracay | VE
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
-#EXTINF:-1 tvg-id="Showven" tvg-name="Showven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", Showven | VE
-https://ccs-offnet-cdn2.netuno.cdn.moderntv.eu/netuno/stream/SHOWVEN/60-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DSHOWVEN_stream_9x&_cdn_session=8185885074&contentId=7eec359d-cbcd-43d0-b2f4-4d5ddda9fa09&contentType=&drmProvider=cg&drmTypes=widevine&packager=1&stream=video%3A0&trackType=HD&_cdn_token=1e85a2e916bbcbdd8f1f788cfe544457d1843f48
-#EXTINF:-1 tvg-id="Televen" tvg-name="Televen" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", SEO TV | VE
-https://seo.tv.bo/hls/SEOTVHD.m3u8
-#EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Casa Grande TV | CL
-https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/chunks.m3u8
+#EXTINF:-1 tvg-id="WOW" tvg-name="WOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", Showven | VE
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+#EXTINF:-1 tvg-id="SuperCanal" tvg-name="SuperCanal" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", SEO TV | VE
+https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/chunks.m3u8
+#EXTINF:-1 tvg-id="Milenium tv" tvg-name="Milenium tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Casa Grande TV | CL
+hhttps://live20.bozztv.com/giatv/giatv-mileniumtv/mileniumtv/chunks.m3u8
 #EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w145698864.m3u8
 #EXTINF:-1 tvg-id="Italianissimo" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png", Italianissimo | VE
@@ -57,8 +57,8 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TV FANB" tvg-name="TV FANB" tvg-logo="https://i2.paste.pics/a8b5e009d5d735ea3c62feb24231cc0f.png", TV FANB | VE
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w769666983.m3u8
-#EXTINF:-1 tvg-id="GLOBOVISION" tvg-name="GLOBO VISION" tvg-logo="https://www.globovision.com/img/logo-2024.png?v=2", GLOBO VISION | VE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745110512/ei/kPEDaMvJBoKy0_wPu_u64Ac/ip/186.14.33.156/id/rEg852uZaEo.21/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcO2D5Px9eJ-e2l3KYugvFFzpB8W1cwEU0C_2ATVRt6bgtnZnrLmjYLDEuc_nvya7MkhiQ/spc/_S3wKmIawR_0EDtZ7N0LT-Gum6yQNuXT5j6ltvLktxaHEmZBYGAgy1UZRUg5fSna1Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYd-cZjo_nz6k-Q69FeB-h--m0osSb2-7-jQagHhIeH4CID5_DM77MzV5xd_i2uMZRVyihMz26yXDH-7TQEknxMq7/file/index.m3u8
+#EXTINF:-1 tvg-id="Retrotoons tv" tvg-name="Retrotoons tv" tvg-logo="https://www.globovision.com/img/logo-2024.png?v=2", GLOBO VISION | VE
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="TV FAMILIA" tvg-name="TV FAMILIA" tvg-logo="https://tvfamilia.com/wp-content/uploads/2020/07/loop-TVF-Tex-Blanco-Fondo-Negro.gif", TV FAMILIA | VE
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1985475239.m3u8
 #EXTINF:-1 tvg-id="CANAL DIPLOMATICO" tvg-name="CANAL DIPLOMATICO" tvg-logo="https://www.canaldiplomatico.com/canal-diplomatico.png", CANAL DIPLOMATICO | VE
