@@ -121,3 +121,55 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 #EXTINF:-1 tvg-id="Telesur HD" tvg-name="Telesur HD" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png",Telesur HD| VE
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0,HBO Latino
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
+#EXTINF:0,HBO Comedy
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/101.ts
+#EXTINF:0,HBO Zone
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
+#EXTINF:0,Cinemax 2
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+#EXTINF:0,5tar Max
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.ts
+#EXTINF:0,Starz Encore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.ts
+#EXTINF:0,Starz Encore Action
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.ts
+#EXTINF:0,Starz Encore Black
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.ts
+#EXTINF:0,Starz Encore Wester
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.ts
+#EXTINF:0,Starz East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.ts
+#EXTINF:0,Starz Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.ts
+#EXTINF:0,ActionMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.ts
+#EXTINF:0,MoreMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/107.ts
+#EXTINF:0,MovieMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/108.ts
+#EXTINF:0,OuterMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/109.ts
+#EXTINF:0,TrillerMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/126.ts
+#EXTINF:0,Showtime Bet
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.ts
+#EXTINF:0,Showtime 2 HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.ts
+#EXTINF:0,Showtime Extreme
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.ts
+#EXTINF:0,Showtime Family Zone
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/114.ts
+#EXTINF:0,Showtime HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.ts
+#EXTINF:0,Showtime HD West
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.ts
+#EXTINF:0,Showtime Nex
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
+#EXTINF:0,Showtime Show Case
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
+#EXTINF:0,Showtime Women
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.ts
+#EXTINF:0,ScreenPix
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.ts
