@@ -25,12 +25,8 @@ https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 tvg-id="SuperCanal" tvg-name="SuperCanal" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", SuperCanal | VE
 https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/chunks.m3u8
-#EXTINF:-1 tvg-id="Milenium tv" tvg-name="Milenium tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTHOUbykoCdouS56iWnuY-FWuhPKwXT2z5g&s", Milenium tv | CL
-hhttps://live20.bozztv.com/giatv/giatv-mileniumtv/mileniumtv/chunks.m3u8
 #EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w145698864.m3u8
-#EXTINF:-1 tvg-id="Italianissimo" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png", Italianissimo | VE
-https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w1740951553.m3u8
 #EXTINF:-1 tvg-id="Meganet" tvg-name="Meganet" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", Meganet | VE
 https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/chunks.m3u8
 #EXTINF:-1 tvg-id="quaeretv" tvg-name="quaeretv" tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", quaeretv | VE
@@ -39,22 +35,12 @@ https://live20.bozztv.com/giatv/giatv-quaeretv/quaeretv/chunks.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="BTA" tvg-name="BTA" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png", BTA | VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="TRV" tvg-name="TRV" tvg-logo="http://lorini.net/trv/LOGOTRV.png", TRV | VE
-https://vcp3.myplaytv.com/trv/trv/chunklist_w1182471132.m3u8
 #EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/227px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", Seo Peliculas | VE
-https://seo.tv.bo/tv/XLIpSEO-TV-4.m3u8
-#EXTINF:-1 tvg-id="FRANCE 24" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png", France 24 ES | VE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745109307/ei/2-wDaM6tOauFy_sPzKzl6Qo/ip/186.14.33.156/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcNd3GhheooC3YV4WT9-lzPEq2szBrP0FT59oj3jA-A9f56DI5uzRAviNz9n2ybo8pY_fQ/spc/_S3wKpUDVyXbVFybXwAC8TqYzdQKDTBVDO5ztmpj3h_QCqqiR3LzIBqfF1cvXaekEA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQSnmvZimu6qxKnPUvXGFK_CuM0FzK2TDCAqFHPGDSbgCIQCnh3S-KgLYuBuhYLZLbisKnGhC0TRBegE5iewBm3Gdzw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RT TV" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/188px-Russia-today-logo.svg.png", RT ES | RUS
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TELECOLOR" tvg-name="Telecolor" tvg-logo="https://i2.paste.pics/a0f5ba424b3a227e3826f146b5063138.png", Telecolor | VE
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-#EXTINF:-1 tvg-id="E SPORTS" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV | VE
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CANTINA TV" tvg-name="Cantina TV" tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png", Cantina TV | VE
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TV FANB" tvg-name="TV FANB" tvg-logo="https://i2.paste.pics/a8b5e009d5d735ea3c62feb24231cc0f.png", TV FANB | VE
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w769666983.m3u8
 #EXTINF:-1 tvg-id="Retrotoons tv" tvg-name="Retrotoons tv" tvg-logo="https://www.globovision.com/img/logo-2024.png?v=2", GLOBO VISION | VE
@@ -69,8 +55,6 @@ https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=" TELEBOCONO" tvg-name="TELEBOCONO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7LrPTFAE-Pg0Usiql9xtwVlnvLoRJyQ0LQ&s", TELEBOCONO | VE
 https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
-#EXTINF:-1 tvg-id=" CANAL 21 TACHIRA" tvg-name="CANAL 21 TACHIRA" tvg-logo="https://i.imgur.com/7Tb7CF4.jpeg", CANAL 21 TACHIRA | VE
-https://stmv2.voxtvhd.com.br/canal21/canal21/chunklist_w1034881954.m3u8
 #EXTINF:-1 tvg-id=" ISLA TV" tvg-name="ISLA TV" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg", ISLA TV | VE
 https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w877102704.m3u8
 #EXTINF:-1 tvg-id=" LATINA TV" tvg-name="LATINA TV" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1", LATINA TV | VE
@@ -91,26 +75,14 @@ https://stmv1.srvstm.com/tnovideo1/tnovideo1/chunklist_w2008738251.m3u8
 https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" TRT TV" tvg-name="TRT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG", TRT TV | VE
 https://vcp12.myplaytv.com/trt/trt/chunklist_w116047127.m3u8
-#EXTINF:-1 tvg-id=" TRV TV" tvg-name="TRV TV" tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png", TRV TV | VE
-https://vcp3.myplaytv.com/trv/trv/chunklist_w1287749310.m3u8
 #EXTINF:-1 tvg-id=" UNI TV" tvg-name="UNI TV" tvg-logo="https://i.imgur.com/KLGeznX.png", UNI TV | VE
 https://vcp6.myplaytv.com/unitv/unitv/chunklist_w557710610.m3u8
 #EXTINF:-1 tvg-id=" VALE TV" tvg-name="VALE TV" tvg-logo="https://i.imgur.com/NMI2Wed.png", VALE TV | VE
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w612919390.m3u8
-#EXTINF:-1 tvg-id=" PLOUS TV" tvg-name="PLOUS TV" tvg-logo="https://i.imgur.com/OSet4en.png", PLOUS TV | VE
-https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1018089235.m3u8
-#EXTINF:-1 tvg-id=" CANTINA TV" tvg-name="CANTINA TV" tvg-logo="https://i.imgur.com/JWMk2fP.png", CANTINA TV | VE
-https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w1333773723.m3u8
-#EXTINF:-1 tvg-id=" ITALIANISSIMO TV" tvg-name="ITALIANISSIMO TV" tvg-logo="https://i.imgur.com/JCpbUZB.png", ITALIANISSIMO TV | VE
-https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w852994614.m3u8
 #EXTINF:-1 tvg-id=" KANDELA TV" tvg-name="KANDELA TV" tvg-logo="https://i.imgur.com/cCFxyIp.jpg", KANDELA TV | VE
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id=" OXIGEN0 TV" tvg-name="OXIGEN0 TV" tvg-logo="https://i.imgur.com/n3PweBQ.png", OXIGEN0 TV | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w258259006.m3u8
-#EXTINF:-1 tvg-id=" VPI TV " tvg-name="VPI TV " tvg-logo="https://i.imgur.com/X5hyKU8.png", VPI TV | VE
-https://live-us.streann.tech/vpi1/vpi1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDUxMTM1MjksInJpZCI6IjVkMjNiMWNlMmNkY2U2MWRhZTAyOWY5YyIsImtleSI6ImtleTEiLCJjaWQiOiI1ZDIzZDU4ODJjZGNlNjFkYWUwMjlmZDgifQ.cqnTudDqBGJOz6ZdYl6V8reVJeNCULD7W22ALBl9K8o
-#EXTINF:-1 tvg-id=" ALCANCE TV" tvg-name="ALCANCE TV" tvg-logo="https://i.imgur.com/veeuqS1.png", ALCANCE TV | VE
-https://videolatam.com:3516/live/tjjqdqurlive.m3u8
 #EXTINF:-1 tvg-id=" INTER TV" tvg-name="INTER TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", INTER TV | VE
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Catatumbo Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png", Canal 11 zulia| VE
@@ -187,15 +159,9 @@ http://38.41.8.1:8000/play/a03r
 http://38.41.8.1:8000/play/a03k
 #EXTINF:-1 tvg-id="" tvg-name="Avila TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.1692465986579.png.10cde3f44dd3b794f96222be79a1fe85.png" group-title="VENEZUELA",Avila TV
 http://38.41.8.1:8000/play/a03t
-#EXTINF:-2 tvg-id="Venevision.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="General",Venevision
-https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:0,Show Ven
 http://38.41.8.1:8000/play/a03s
 #EXTINF:0,MTV
 http://38.41.8.1:8000/play/a04t
-#EXTINF:0,Discovery ID
-http://38.41.8.1:8000/play/a071
 #EXTINF:0,123 TV
 http://38.41.8.1:8000/play/a03o
-#EXTINF:0,STAR Channel
-http://38.41.8.1:8000/play/a04w
