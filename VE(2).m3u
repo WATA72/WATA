@@ -173,3 +173,29 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.ts
 #EXTINF:0,ScreenPix
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.ts
+#EXTINF:3,CANAL I
+http://38.41.8.1:8000/play/a046
+#EXTINF:4,TLT
+http://38.41.8.1:8000/play/a044
+#EXTINF:5,COLOMBEIA
+http://38.41.8.1:8000/play/a03n
+#EXTINF:6,ANTV
+http://38.41.8.1:8000/play/a03m
+#EXTINF:7,TVFANB
+http://38.41.8.1:8000/play/a03r
+#EXTINF:-0 tvg-id="" tvg-name="TVES" tvg-logo="https://www.tves.gob.ve/wp-content/uploads/2023/11/LOGO-PNG.png" group-title="VENEZUELA",TVES
+http://38.41.8.1:8000/play/a03k
+#EXTINF:-1 tvg-id="" tvg-name="Avila TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.1692465986579.png.10cde3f44dd3b794f96222be79a1fe85.png" group-title="VENEZUELA",Avila TV
+http://38.41.8.1:8000/play/a03t
+#EXTINF:-2 tvg-id="Venevision.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="General",Venevision
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+#EXTINF:0,Show Ven
+http://38.41.8.1:8000/play/a03s
+#EXTINF:0,MTV
+http://38.41.8.1:8000/play/a04t
+#EXTINF:0,Discovery ID
+http://38.41.8.1:8000/play/a071
+#EXTINF:0,123 TV
+http://38.41.8.1:8000/play/a03o
+#EXTINF:0,STAR Channel
+http://38.41.8.1:8000/play/a04w
