@@ -21,8 +21,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/chunklist_w1788740353.m3u8
 #EXTINF:-1 tvg-id="TVS Maracay" tvg-name="TVS Maracay" tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png", TVS Maracay | VE
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1784248886.m3u8
-#EXTINF:-1 tvg-id="WOW" tvg-name="WOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", WOW | VE
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+#EXTINF:-1 tvg-id="CUBAVISION" tvg-name="CUBAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Showven.png/250px-Showven.png", CUBAVISION | VE
+https://tvhd.picta.cu/cubavisionhd/cubavisionhd_2.m3u8
 #EXTINF:-1 tvg-id="SuperCanal" tvg-name="SuperCanal" tvg-logo="https://televen.com/wp-content/uploads/2024/07/cropped-Logo-Horizontal-Nueva-Imagen.png", SuperCanal | VE
 https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/chunks.m3u8
 #EXTINF:-1 tvg-id="Recuerdos Retro TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png", Recuerdos Retro Radio TV | CL
@@ -35,8 +35,6 @@ https://live20.bozztv.com/giatv/giatv-quaeretv/quaeretv/chunks.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="BTA" tvg-name="BTA" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png", BTA | VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="VALE TV" tvg-name="VALE TV" tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color.png", VALE TV | VE
-https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1661825917.m3u8
 #EXTINF:-1 tvg-id="RT TV" tvg-name="RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/188px-Russia-today-logo.svg.png", RT ES | RUS
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TELECOLOR" tvg-name="Telecolor" tvg-logo="https://i2.paste.pics/a0f5ba424b3a227e3826f146b5063138.png", Telecolor | VE
@@ -92,7 +90,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Tv" tvg-name="Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png",Cartoon Tv| VE
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 #EXTINF:-1 tvg-id="Telesur HD" tvg-name="Telesur HD" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png",Telesur HD| VE
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0,HBO Latino
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
 #EXTINF:0,HBO Comedy
@@ -145,23 +143,11 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.ts
 #EXTINF:0,ScreenPix
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.ts
-#EXTINF:3,CANAL I
-http://38.41.8.1:8000/play/a046
-#EXTINF:4,TLT
-http://38.41.8.1:8000/play/a044
-#EXTINF:5,COLOMBEIA
-http://38.41.8.1:8000/play/a03n
-#EXTINF:6,ANTV
-http://38.41.8.1:8000/play/a03m
-#EXTINF:7,TVFANB
-http://38.41.8.1:8000/play/a03r
-#EXTINF:-0 tvg-id="" tvg-name="TVES" tvg-logo="https://www.tves.gob.ve/wp-content/uploads/2023/11/LOGO-PNG.png" group-title="VENEZUELA",TVES
-http://38.41.8.1:8000/play/a03k
-#EXTINF:-1 tvg-id="" tvg-name="Avila TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.1692465986579.png.10cde3f44dd3b794f96222be79a1fe85.png" group-title="VENEZUELA",Avila TV
-http://38.41.8.1:8000/play/a03t
-#EXTINF:0,Show Ven
-http://38.41.8.1:8000/play/a03s
-#EXTINF:0,MTV
-http://38.41.8.1:8000/play/a04t
-#EXTINF:0,123 TV
-http://38.41.8.1:8000/play/a03o
+#EXTINF:0,MULTIVISION
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:0,CVINTERNACIONAL
+https://tv.picta.cu/cvi/cvi_0.m3u8
+#EXTINF:0,CANAL HABANA
+https://tv.picta.cu/infantil/infantil_0.m3u8
+#EXTINF:0,TELEREBELDE
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
