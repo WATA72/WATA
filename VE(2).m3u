@@ -151,7 +151,7 @@ https://tv.picta.cu/infantil/infantil_0.m3u8
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:0,CUBAVISION HD
 https://tvhd.picta.cu/cubavisionhd/cubavisionhd_1.m3u8
-#EXTINF:0,WATAVISION HD
+#EXTINF:-1 tvg-id="Wata Vision" tvg-name="Wata Vision" tvg-logo="https://i.postimg.cc/T3jhT9XD/watavision.jpg", WataVision HD * 
 https://183.bozztv.com/giatv/giatv-WATAVISIONHD/WATAVISIONHD/chunks.m3u8
 #EXTINF:0,MDA TELEVISION
 https://vcp32.myplaytv.com/mdatv/mdatv/chunklist_w409653689.m3u8
