@@ -167,3 +167,17 @@ https://streaming.canal-i.com/canal-i/live/primary/1080.m3u8
 https://cdn01.setar.aw/Canal49/canal49/chunklist_w892249873.m3u8
 #EXTINF:0,un24
 https://59d39900ebfb8.streamlock.net/untv-720/untv-720/chunklist_w539997408.m3u8
+#EXTINF:0,Canal C Zulia
+https://calm-forest-3478.cristianbracho904.workers.dev/hls/index.m3u8
+#EXTINF:0,Guaro tv
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:0,Isla tv
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w1067531788.m3u8
+#EXTINF:0,MaxAnime
+https://cdnlive.klicgo.net/maxanime/live/chunklist_w1523717855.m3u8
+#EXTINF:0,Showven tv
+https://cdnbarinas.tvzamora.com/showven/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,tu tv
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
