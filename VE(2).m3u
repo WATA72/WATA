@@ -162,7 +162,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 #EXTINF:0,AME47 RD
 https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist_w783671974.m3u8
 #EXTINF:0,canal i hd
-https://televen.streampool.net/10255/live/hls/canalihdn/0_0_2048_128/spntl=exp=1785187606~id=9LEcZYJp2KA-1107yv6adLU~acl=%2F10255%2Flive%2Fhls%2Fcanalihdn%2F%2A~data=ip=186.14.33.156,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=0dc6b1c303fefc150c3949e9f7559cf7488d3a5d454b0241894e0c99151c7678/index_0.m3u8
+https://televen.streampool.net/10255/live/hls/canalihdn/0_0_2048_128/spntl=exp=1785699084~id=9LEcZYJp2KA-PX+ZZ94YX54~acl=%2F10255%2Flive%2Fhls%2Fcanalihdn%2F%2A~data=ip=186.14.33.156,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=69989d59cd4a7a34c2dc70d7bac271a17c9ca2c0edf9cd2524f4d4e0d95bc73d/index_0.m3u8
 #EXTINF:0,Aruba tv
 https://cdn01.setar.aw/Canal49/canal49/chunklist_w892249873.m3u8
 #EXTINF:0,un24
@@ -186,4 +186,4 @@ https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:0, mas 23
 https://movil.ejeserver.com/live/mas23tv.m3u8
 #EXTINF:0, VTV HD
-https://televen.streampool.net/10255/live/hls/vtvhd/0_0_2048_128/spntl=exp=1785187389~id=juS2HTFOYOU-1p_xXh0duS4~acl=%2F10255%2Flive%2Fhls%2Fvtvhd%2F%2A~data=ip=186.14.33.156,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=3bf6f7e51e5712fb94190c6f7c66e7a059282acaaedc6f78a3cc80b692780b60/index_0.m3u8
+https://televen.streampool.net/10255/live/hls/vtvhd/0_0_2048_128/spntl=exp=1785699016~id=juS2HTFOYOU-xs0vsJlMhDI~acl=%2F10255%2Flive%2Fhls%2Fvtvhd%2F%2A~data=ip=186.14.33.156,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=da82373d057b16a31503bc9b58b603bb31ad90df979b5cdccf477d79842f4fa4/index_0.m3u8
