@@ -161,8 +161,8 @@ https://vcp11.myplaytv.com/mdatv/mdatv/chunklist_w515033863.m3u8
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 #EXTINF:0,AME47 RD
 https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist_w783671974.m3u8
-#EXTINF:0,canal i hd
-https://televen.streampool.net/10255/live/hls/canalihdn/0_0_2048_128/spntl=exp=1785699084~id=9LEcZYJp2KA-PX+ZZ94YX54~acl=%2F10255%2Flive%2Fhls%2Fcanalihdn%2F%2A~data=ip=186.14.33.156,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=69989d59cd4a7a34c2dc70d7bac271a17c9ca2c0edf9cd2524f4d4e0d95bc73d/index_0.m3u8
+#EXTINF:0,TELEVEN hd
+https://televen.streampool.net/10255/dvr/hls/televentrx/variant_1/spntl=exp=1786399167~id=bqJoO4Viu_s-8LtqPTVXi9M~acl=%2F10255%2Fdvr%2Fhls%2Fteleventrx%2F%2A~data=ip=186.14.33.156,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=bde91a21771440f4757666b3aaa9de4720d48b4558a3eacf94610b32e1e607e9/stream.m3u8
 #EXTINF:0,Aruba tv
 https://cdn01.setar.aw/Canal49/canal49/chunklist_w892249873.m3u8
 #EXTINF:0,un24
