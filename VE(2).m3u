@@ -151,8 +151,8 @@ https://tv.picta.cu/cvi/cvi_0.m3u8
 https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:0,TELEREBELDE
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
-#EXTINF:0,CUBAVISION HD
-https://tvhd.picta.cu/cubavisionhd/cubavisionhd_1.m3u8
+#EXTINF:0,TVES HD
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8?token=tJ%2BM5wNiWUdr%2BHlFsTrDx%2Ff%2BnI3FcY8Y%2F7PV%2FoKP5k8%3D
 #EXTINF:-1 tvg-id="Wata Vision" tvg-name="Wata Vision" tvg-logo="https://i.postimg.cc/T3jhT9XD/watavision.jpg", WataVision HD * 
 https://183.bozztv.com/giatv/giatv-WATAVISIONHD/WATAVISIONHD/chunks.m3u8
 #EXTINF:0,MDA TELEVISION
