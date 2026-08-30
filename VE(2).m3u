@@ -151,8 +151,8 @@ https://tv.picta.cu/cvi/cvi_0.m3u8
 https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:0,TELEREBELDE
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
-#EXTINF:0,TVES HD
-https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8?token=tJ%2BM5wNiWUdr%2BHlFsTrDx%2Ff%2BnI3FcY8Y%2F7PV%2FoKP5k8%3D
+#EXTINF:0, Max cine Family
+https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Wata Vision" tvg-name="Wata Vision" tvg-logo="https://i.postimg.cc/T3jhT9XD/watavision.jpg", WataVision HD * 
 https://183.bozztv.com/giatv/giatv-WATAVISIONHD/WATAVISIONHD/chunks.m3u8
 #EXTINF:0,MDA TELEVISION
@@ -185,9 +185,8 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/51600
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:0, mas 23
 https://movil.ejeserver.com/live/mas23tv.m3u8
-#EXTINF:0, VTV HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(_FQJm1OYnFhidloS7KoZGY34UXLs0-G0T0bJVGSjV7WoH5R3ifnTCePKmAv7EiA52fdh7iXJNR2e0EEROVABZWQqJmtp-Hhhcx-ELKCAvSw_EKPTACmUhEm5Zt84AeYT)/dm/3/x930kre/d/live-720@60.m3u8#cell=lcf-eu-north-1a
-#EXTINF:0, Chivacoa TV
+#EXTINF:0, Teleguarico
+https://streaming5.globalhostla.com/rtplive/teleguarico/chunklist_w1981262164.m3u8
 https://183.bozztv.com/giatv/giatv-Chivacoatv/Chivacoatv/chunks.m3u8
 #EXTINF:0, Tele clasicos TV
 https://live20.bozztv.com/giatvplayout7/giatv-211454/tracks-v1a1/mono.ts.m3u8
