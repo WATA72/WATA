@@ -149,8 +149,8 @@ https://tv.picta.cu/multivision/multivision_1.m3u8
 https://tv.picta.cu/cvi/cvi_0.m3u8
 #EXTINF:0,CANAL HABANA
 https://tv.picta.cu/infantil/infantil_0.m3u8
-#EXTINF:0,TELEREBELDE
-https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:0,Tlt hd
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(52jFHXRlR7nX7HksV4bSFvFPE4s72mM7tj65ipR-lJ2FOg826YPSZmDCvpWEHolePphhMghGFUWLB2TOFuyHy31x578O8ms82usa95LIanAFwPo5ZuDXw9HsNTFaqDui)/cloud/3/x8z1lwk/s/live-720@60.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:0, Max cine Family
 https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Wata Vision" tvg-name="Wata Vision" tvg-logo="https://i.postimg.cc/T3jhT9XD/watavision.jpg", WataVision HD * 
